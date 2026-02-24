@@ -10,7 +10,8 @@ namespace GerenciarCapacidadeLists
     {
         static void Main(string[] args)
         {
-            var numeros = new List<int>(10) { 1, 2, 3, 4, 5 };
+            var numeros = new List<int>(10) { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            numeros.Add(11);
 
             MostrarInformacoesLista(numeros);
 
