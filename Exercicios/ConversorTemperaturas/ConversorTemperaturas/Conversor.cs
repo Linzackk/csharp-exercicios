@@ -22,57 +22,36 @@ namespace ConversorTemperaturas
             )
         {
             if (unidadeAtual.Equals(unidadeAlvo)) { return valor; }
+            double valorEmCelsius = ConverterValorEmCelsius(valor, unidadeAtual);
+
             switch (unidadeAlvo)
             {
                 case TemperaturasCadastradas.Celsius:
-                    if (unidadeAtual == TemperaturasCadastradas.Fahrenheit) { return ConversorFC(valor); }
-                    else if (unidadeAtual == TemperaturasCadastradas.Kelvin) { return ConversorKC(valor); }
-                    else { Console.WriteLine("Temperatura Atual inválida."); }
-                    break;
-
-                case TemperaturasCadastradas.Fahrenheit:
-                    if (unidadeAtual == TemperaturasCadastradas.Celsius) { return ConversorCF(valor); }
-                    else if (unidadeAtual == TemperaturasCadastradas.Kelvin) { return ConversorKF(valor); }
-                    else { Console.WriteLine("Temperatura Atual inválida."); }
-                    break;
+                    return valorEmCelsius;
 
                 case TemperaturasCadastradas.Kelvin:
-                    if (unidadeAtual == TemperaturasCadastradas.Celsius) { return ConversorCK(valor); }
-                    else if (unidadeAtual == TemperaturasCadastradas.Fahrenheit) { return ConversorFK(valor); }
-                    else { Console.WriteLine("Temperatura Atual inválida."); }
-                    break;
+                    return valorEmCelsius + 273.15;
 
-                default:
-                    Console.WriteLine("Temperatura inserida inválida.");
-                    break;      
+                case TemperaturasCadastradas.Fahrenheit:
+                    return (valorEmCelsius * 1.8) + 32;
             }
+
             return -1;
         }
-        private static double ConversorCF(double valor) 
+        private static double ConverterValorEmCelsius(double valor, TemperaturasCadastradas temperaturaAtual)
         {
-            return (valor * 9 / 5) + 32;
-        }
-        private static double ConversorCK(double valor) 
-        {
-            return valor + 273.15;
-        }
+            switch (temperaturaAtual)
+            {
+                case TemperaturasCadastradas.Celsius:
+                    return valor;
+                    
+                case TemperaturasCadastradas.Fahrenheit:
+                    return (valor - 32) / 1.8;
 
-        private static double ConversorFC(double valor)
-        {
-            return 5 / 9 * (valor - 32);
-        }
-        private static double ConversorFK(double valor)
-        {
-            return (valor - 32) * 5 / 9 + 273.15;
-        }
-
-        private static double ConversorKF(double valor)
-        {
-            return valor * 1.8 - 459.67;
-        }
-        private static double ConversorKC(double valor) 
-        {
-            return valor - 273.15;
+                case TemperaturasCadastradas.Kelvin:
+                    return valor - 273.15;
+            }
+            throw new ArgumentException("Unidade de Temperatura inválida");
         }
     }
 }
