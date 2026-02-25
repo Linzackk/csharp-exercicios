@@ -34,5 +34,10 @@ namespace ProcessamentoPedidos
             this.preco = preco;
             this.quantidade = quantidade;
         }
+
+        public double SubTotal()
+        {
+            return this.preco * this.quantidade;
+        }
     }
 }
