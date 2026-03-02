@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaGestaoProjetos\SistemaGestaoProjetos\obj\Debug\SistemaGestaoProjetos.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaGestaoProjetos\SistemaGestaoProjetos\obj\Debug\SistemaGestaoProjetos.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaGestaoProjetos\SistemaGestaoProjetos\bin\Debug\SistemaGestaoProjetos.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaGestaoProjetos\SistemaGestaoProjetos\bin\Debug\SistemaGestaoProjetos.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaGestaoProjetos\SistemaGestaoProjetos\bin\Debug\SistemaGestaoProjetos.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaGestaoProjetos\SistemaGestaoProjetos\obj\Debug\SistemaGestaoProjetos.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaGestaoProjetos\SistemaGestaoProjetos\obj\Debug\SistemaGestaoProjetos.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaGestaoProjetos\SistemaGestaoProjetos\obj\Debug\SistemaGestaoProjetos.exe.config
