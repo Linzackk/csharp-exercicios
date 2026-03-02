@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87515B3A-17AF-4FFB-A0BD-DD6E6FE61632}|LojaDeProdutos\\LojaDeProdutos.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\lojadeprodutos\\lojadeprodutos\\listaprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87515B3A-17AF-4FFB-A0BD-DD6E6FE61632}|LojaDeProdutos\\LojaDeProdutos.csproj|solutionrelative:lojadeprodutos\\listaprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87515B3A-17AF-4FFB-A0BD-DD6E6FE61632}|LojaDeProdutos\\LojaDeProdutos.csproj|C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\lojadeprodutos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87515B3A-17AF-4FFB-A0BD-DD6E6FE61632}|LojaDeProdutos\\LojaDeProdutos.csproj|solutionrelative:lojadeprodutos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87515B3A-17AF-4FFB-A0BD-DD6E6FE61632}|LojaDeProdutos\\LojaDeProdutos.csproj|C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\lojadeprodutos\\inputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87515B3A-17AF-4FFB-A0BD-DD6E6FE61632}|LojaDeProdutos\\LojaDeProdutos.csproj|solutionrelative:lojadeprodutos\\inputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87515B3A-17AF-4FFB-A0BD-DD6E6FE61632}|LojaDeProdutos\\LojaDeProdutos.csproj|C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\lojadeprodutos\\validarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87515B3A-17AF-4FFB-A0BD-DD6E6FE61632}|LojaDeProdutos\\LojaDeProdutos.csproj|solutionrelative:lojadeprodutos\\validarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87515B3A-17AF-4FFB-A0BD-DD6E6FE61632}|LojaDeProdutos\\LojaDeProdutos.csproj|C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\lojadeprodutos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87515B3A-17AF-4FFB-A0BD-DD6E6FE61632}|LojaDeProdutos\\LojaDeProdutos.csproj|solutionrelative:lojadeprodutos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87515B3A-17AF-4FFB-A0BD-DD6E6FE61632}|LojaDeProdutos\\LojaDeProdutos.csproj|C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\lojadeprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87515B3A-17AF-4FFB-A0BD-DD6E6FE61632}|LojaDeProdutos\\LojaDeProdutos.csproj|solutionrelative:lojadeprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87515B3A-17AF-4FFB-A0BD-DD6E6FE61632}|LojaDeProdutos\\LojaDeProdutos.csproj|C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\lojadeprodutos\\outputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87515B3A-17AF-4FFB-A0BD-DD6E6FE61632}|LojaDeProdutos\\LojaDeProdutos.csproj|solutionrelative:lojadeprodutos\\outputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OutputService.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\LojaDeProdutos\\OutputService.cs",
+              "RelativeDocumentMoniker": "LojaDeProdutos\\OutputService.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\LojaDeProdutos\\OutputService.cs",
+              "RelativeToolTip": "LojaDeProdutos\\OutputService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T19:42:10.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputService.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\LojaDeProdutos\\InputService.cs",
+              "RelativeDocumentMoniker": "LojaDeProdutos\\InputService.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\LojaDeProdutos\\InputService.cs",
+              "RelativeToolTip": "LojaDeProdutos\\InputService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:59:15.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\LojaDeProdutos\\ListaProdutos.cs",
+              "RelativeDocumentMoniker": "LojaDeProdutos\\ListaProdutos.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\LojaDeProdutos\\ListaProdutos.cs",
+              "RelativeToolTip": "LojaDeProdutos\\ListaProdutos.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T18:14:41.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\LojaDeProdutos\\Menu.cs",
+              "RelativeDocumentMoniker": "LojaDeProdutos\\Menu.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\LojaDeProdutos\\Menu.cs",
+              "RelativeToolTip": "LojaDeProdutos\\Menu.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:59:08.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\LojaDeProdutos\\Produto.cs",
+              "RelativeDocumentMoniker": "LojaDeProdutos\\Produto.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\LojaDeProdutos\\Produto.cs",
+              "RelativeToolTip": "LojaDeProdutos\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:32:09.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidarService.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\LojaDeProdutos\\ValidarService.cs",
+              "RelativeDocumentMoniker": "LojaDeProdutos\\ValidarService.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\LojaDeProdutos\\ValidarService.cs",
+              "RelativeToolTip": "LojaDeProdutos\\ValidarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T18:51:28.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\LojaDeProdutos\\Program.cs",
+              "RelativeDocumentMoniker": "LojaDeProdutos\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\LojaDeProdutos\\LojaDeProdutos\\Program.cs",
+              "RelativeToolTip": "LojaDeProdutos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:31:49.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

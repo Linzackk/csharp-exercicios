@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ManipulacaoDicionarios\ManipulacaoDicionarios\bin\Debug\ManipulacaoDicionarios.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ManipulacaoDicionarios\ManipulacaoDicionarios\bin\Debug\ManipulacaoDicionarios.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ManipulacaoDicionarios\ManipulacaoDicionarios\bin\Debug\ManipulacaoDicionarios.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ManipulacaoDicionarios\ManipulacaoDicionarios\obj\Debug\ManipulacaoDicionarios.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ManipulacaoDicionarios\ManipulacaoDicionarios\obj\Debug\ManipulacaoDicionarios.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ManipulacaoDicionarios\ManipulacaoDicionarios\obj\Debug\ManipulacaoDicionarios.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ManipulacaoDicionarios\ManipulacaoDicionarios\obj\Debug\ManipulacaoDicionarios.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ManipulacaoDicionarios\ManipulacaoDicionarios\obj\Debug\ManipulacaoDicionarios.exe.config

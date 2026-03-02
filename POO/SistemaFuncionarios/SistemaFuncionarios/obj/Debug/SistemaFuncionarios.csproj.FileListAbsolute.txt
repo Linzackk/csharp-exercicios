@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaFuncionarios\SistemaFuncionarios\bin\Debug\SistemaFuncionarios.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaFuncionarios\SistemaFuncionarios\bin\Debug\SistemaFuncionarios.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaFuncionarios\SistemaFuncionarios\bin\Debug\SistemaFuncionarios.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaFuncionarios\SistemaFuncionarios\obj\Debug\SistemaFuncionarios.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaFuncionarios\SistemaFuncionarios\obj\Debug\SistemaFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaFuncionarios\SistemaFuncionarios\obj\Debug\SistemaFuncionarios.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaFuncionarios\SistemaFuncionarios\obj\Debug\SistemaFuncionarios.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaFuncionarios\SistemaFuncionarios\obj\Debug\SistemaFuncionarios.exe.config

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\SistemaDePagamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8819B4-00C2-4C1D-B3D9-6BADCC38E5CA}|SistemaDePagamento\\SistemaDePagamento.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\sistemadepagamento\\sistemadepagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8819B4-00C2-4C1D-B3D9-6BADCC38E5CA}|SistemaDePagamento\\SistemaDePagamento.csproj|solutionrelative:sistemadepagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8819B4-00C2-4C1D-B3D9-6BADCC38E5CA}|SistemaDePagamento\\SistemaDePagamento.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\sistemadepagamento\\sistemadepagamento\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8819B4-00C2-4C1D-B3D9-6BADCC38E5CA}|SistemaDePagamento\\SistemaDePagamento.csproj|solutionrelative:sistemadepagamento\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\SistemaDePagamento\\SistemaDePagamento\\Pagamento.cs",
+              "RelativeDocumentMoniker": "SistemaDePagamento\\Pagamento.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\SistemaDePagamento\\SistemaDePagamento\\Pagamento.cs",
+              "RelativeToolTip": "SistemaDePagamento\\Pagamento.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:17:05.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\SistemaDePagamento\\SistemaDePagamento\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaDePagamento\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\SistemaDePagamento\\SistemaDePagamento\\Program.cs",
+              "RelativeToolTip": "SistemaDePagamento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:17:00.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\GerenciarCapacidadeLists\GerenciarCapacidadeLists\bin\Debug\GerenciarCapacidadeLists.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\GerenciarCapacidadeLists\GerenciarCapacidadeLists\bin\Debug\GerenciarCapacidadeLists.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\GerenciarCapacidadeLists\GerenciarCapacidadeLists\bin\Debug\GerenciarCapacidadeLists.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\GerenciarCapacidadeLists\GerenciarCapacidadeLists\obj\Debug\GerenciarCapacidadeLists.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\GerenciarCapacidadeLists\GerenciarCapacidadeLists\obj\Debug\GerenciarCapacidadeLists.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\GerenciarCapacidadeLists\GerenciarCapacidadeLists\obj\Debug\GerenciarCapacidadeLists.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\GerenciarCapacidadeLists\GerenciarCapacidadeLists\obj\Debug\GerenciarCapacidadeLists.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\GerenciarCapacidadeLists\GerenciarCapacidadeLists\obj\Debug\GerenciarCapacidadeLists.exe.config

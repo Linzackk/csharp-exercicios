@@ -1,0 +1,7 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\AcessoSeguroDicionarios\AcessoSeguroDicionarios\bin\Debug\AcessoSeguroDicionarios.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\AcessoSeguroDicionarios\AcessoSeguroDicionarios\bin\Debug\AcessoSeguroDicionarios.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\AcessoSeguroDicionarios\AcessoSeguroDicionarios\bin\Debug\AcessoSeguroDicionarios.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\AcessoSeguroDicionarios\AcessoSeguroDicionarios\obj\Debug\AcessoSeguroDicionarios.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\AcessoSeguroDicionarios\AcessoSeguroDicionarios\obj\Debug\AcessoSeguroDicionarios.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\AcessoSeguroDicionarios\AcessoSeguroDicionarios\obj\Debug\AcessoSeguroDicionarios.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\AcessoSeguroDicionarios\AcessoSeguroDicionarios\obj\Debug\AcessoSeguroDicionarios.pdb

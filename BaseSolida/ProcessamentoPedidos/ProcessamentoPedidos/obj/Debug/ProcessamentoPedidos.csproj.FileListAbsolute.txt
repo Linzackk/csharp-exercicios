@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ProcessamentoPedidos\ProcessamentoPedidos\bin\Debug\ProcessamentoPedidos.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ProcessamentoPedidos\ProcessamentoPedidos\bin\Debug\ProcessamentoPedidos.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ProcessamentoPedidos\ProcessamentoPedidos\bin\Debug\ProcessamentoPedidos.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ProcessamentoPedidos\ProcessamentoPedidos\obj\Debug\ProcessamentoPedidos.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ProcessamentoPedidos\ProcessamentoPedidos\obj\Debug\ProcessamentoPedidos.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ProcessamentoPedidos\ProcessamentoPedidos\obj\Debug\ProcessamentoPedidos.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ProcessamentoPedidos\ProcessamentoPedidos\obj\Debug\ProcessamentoPedidos.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ProcessamentoPedidos\ProcessamentoPedidos\obj\Debug\ProcessamentoPedidos.exe.config

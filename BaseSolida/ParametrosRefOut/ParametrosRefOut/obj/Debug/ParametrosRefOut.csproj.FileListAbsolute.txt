@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ParametrosRefOut\ParametrosRefOut\bin\Debug\ParametrosRefOut.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ParametrosRefOut\ParametrosRefOut\bin\Debug\ParametrosRefOut.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ParametrosRefOut\ParametrosRefOut\bin\Debug\ParametrosRefOut.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ParametrosRefOut\ParametrosRefOut\obj\Debug\ParametrosRefOut.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ParametrosRefOut\ParametrosRefOut\obj\Debug\ParametrosRefOut.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ParametrosRefOut\ParametrosRefOut\obj\Debug\ParametrosRefOut.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ParametrosRefOut\ParametrosRefOut\obj\Debug\ParametrosRefOut.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ParametrosRefOut\ParametrosRefOut\obj\Debug\ParametrosRefOut.exe.config

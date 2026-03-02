@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\EnumNivelAcesso\EnumNivelAcesso\bin\Debug\EnumNivelAcesso.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\EnumNivelAcesso\EnumNivelAcesso\bin\Debug\EnumNivelAcesso.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\EnumNivelAcesso\EnumNivelAcesso\bin\Debug\EnumNivelAcesso.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\EnumNivelAcesso\EnumNivelAcesso\obj\Debug\EnumNivelAcesso.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\EnumNivelAcesso\EnumNivelAcesso\obj\Debug\EnumNivelAcesso.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\EnumNivelAcesso\EnumNivelAcesso\obj\Debug\EnumNivelAcesso.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\EnumNivelAcesso\EnumNivelAcesso\obj\Debug\EnumNivelAcesso.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\EnumNivelAcesso\EnumNivelAcesso\obj\Debug\EnumNivelAcesso.exe.config

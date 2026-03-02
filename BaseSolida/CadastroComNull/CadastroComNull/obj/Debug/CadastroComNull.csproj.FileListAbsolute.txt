@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CadastroComNull\CadastroComNull\bin\Debug\CadastroComNull.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CadastroComNull\CadastroComNull\bin\Debug\CadastroComNull.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CadastroComNull\CadastroComNull\bin\Debug\CadastroComNull.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CadastroComNull\CadastroComNull\obj\Debug\CadastroComNull.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CadastroComNull\CadastroComNull\obj\Debug\CadastroComNull.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CadastroComNull\CadastroComNull\obj\Debug\CadastroComNull.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CadastroComNull\CadastroComNull\obj\Debug\CadastroComNull.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CadastroComNull\CadastroComNull\obj\Debug\CadastroComNull.exe.config

@@ -1,0 +1,7 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ParametrosOpcionaisNomeados\ParametrosOpcionaisNomeados\bin\Debug\ParametrosOpcionaisNomeados.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ParametrosOpcionaisNomeados\ParametrosOpcionaisNomeados\bin\Debug\ParametrosOpcionaisNomeados.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ParametrosOpcionaisNomeados\ParametrosOpcionaisNomeados\bin\Debug\ParametrosOpcionaisNomeados.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ParametrosOpcionaisNomeados\ParametrosOpcionaisNomeados\obj\Debug\ParametrosOpcionaisNomeados.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ParametrosOpcionaisNomeados\ParametrosOpcionaisNomeados\obj\Debug\ParametrosOpcionaisNomeados.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ParametrosOpcionaisNomeados\ParametrosOpcionaisNomeados\obj\Debug\ParametrosOpcionaisNomeados.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ParametrosOpcionaisNomeados\ParametrosOpcionaisNomeados\obj\Debug\ParametrosOpcionaisNomeados.pdb

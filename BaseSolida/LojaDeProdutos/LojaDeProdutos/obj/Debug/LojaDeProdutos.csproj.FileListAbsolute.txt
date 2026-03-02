@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\LojaDeProdutos\LojaDeProdutos\bin\Debug\LojaDeProdutos.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\LojaDeProdutos\LojaDeProdutos\bin\Debug\LojaDeProdutos.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\LojaDeProdutos\LojaDeProdutos\bin\Debug\LojaDeProdutos.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\LojaDeProdutos\LojaDeProdutos\obj\Debug\LojaDeProdutos.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\LojaDeProdutos\LojaDeProdutos\obj\Debug\LojaDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\LojaDeProdutos\LojaDeProdutos\obj\Debug\LojaDeProdutos.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\LojaDeProdutos\LojaDeProdutos\obj\Debug\LojaDeProdutos.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\LojaDeProdutos\LojaDeProdutos\obj\Debug\LojaDeProdutos.exe.config

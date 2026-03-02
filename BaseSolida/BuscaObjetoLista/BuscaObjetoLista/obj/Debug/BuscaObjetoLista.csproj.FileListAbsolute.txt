@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\BuscaObjetoLista\BuscaObjetoLista\bin\Debug\BuscaObjetoLista.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\BuscaObjetoLista\BuscaObjetoLista\bin\Debug\BuscaObjetoLista.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\BuscaObjetoLista\BuscaObjetoLista\bin\Debug\BuscaObjetoLista.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\BuscaObjetoLista\BuscaObjetoLista\obj\Debug\BuscaObjetoLista.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\BuscaObjetoLista\BuscaObjetoLista\obj\Debug\BuscaObjetoLista.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\BuscaObjetoLista\BuscaObjetoLista\obj\Debug\BuscaObjetoLista.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\BuscaObjetoLista\BuscaObjetoLista\obj\Debug\BuscaObjetoLista.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\BuscaObjetoLista\BuscaObjetoLista\obj\Debug\BuscaObjetoLista.exe.config

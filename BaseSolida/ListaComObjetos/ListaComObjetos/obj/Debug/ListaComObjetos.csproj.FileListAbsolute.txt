@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ListaComObjetos\ListaComObjetos\bin\Debug\ListaComObjetos.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ListaComObjetos\ListaComObjetos\bin\Debug\ListaComObjetos.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ListaComObjetos\ListaComObjetos\bin\Debug\ListaComObjetos.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ListaComObjetos\ListaComObjetos\obj\Debug\ListaComObjetos.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ListaComObjetos\ListaComObjetos\obj\Debug\ListaComObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ListaComObjetos\ListaComObjetos\obj\Debug\ListaComObjetos.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ListaComObjetos\ListaComObjetos\obj\Debug\ListaComObjetos.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ListaComObjetos\ListaComObjetos\obj\Debug\ListaComObjetos.exe.config

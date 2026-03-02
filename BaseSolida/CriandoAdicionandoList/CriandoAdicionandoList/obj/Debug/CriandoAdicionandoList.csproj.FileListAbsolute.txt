@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CriandoAdicionandoList\CriandoAdicionandoList\bin\Debug\CriandoAdicionandoList.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CriandoAdicionandoList\CriandoAdicionandoList\bin\Debug\CriandoAdicionandoList.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CriandoAdicionandoList\CriandoAdicionandoList\bin\Debug\CriandoAdicionandoList.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CriandoAdicionandoList\CriandoAdicionandoList\obj\Debug\CriandoAdicionandoList.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CriandoAdicionandoList\CriandoAdicionandoList\obj\Debug\CriandoAdicionandoList.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CriandoAdicionandoList\CriandoAdicionandoList\obj\Debug\CriandoAdicionandoList.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CriandoAdicionandoList\CriandoAdicionandoList\obj\Debug\CriandoAdicionandoList.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CriandoAdicionandoList\CriandoAdicionandoList\obj\Debug\CriandoAdicionandoList.exe.config

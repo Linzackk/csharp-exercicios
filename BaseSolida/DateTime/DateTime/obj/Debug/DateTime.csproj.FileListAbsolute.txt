@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\DateTime\DateTime\obj\Debug\DateTime.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\DateTime\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\DateTime\DateTime\obj\Debug\DateTime.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\DateTime\DateTime\obj\Debug\DateTime.exe.config

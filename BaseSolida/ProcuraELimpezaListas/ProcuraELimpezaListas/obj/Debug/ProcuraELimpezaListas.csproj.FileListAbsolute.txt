@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ProcuraELimpezaListas\ProcuraELimpezaListas\bin\Debug\ProcuraELimpezaListas.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ProcuraELimpezaListas\ProcuraELimpezaListas\bin\Debug\ProcuraELimpezaListas.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ProcuraELimpezaListas\ProcuraELimpezaListas\bin\Debug\ProcuraELimpezaListas.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ProcuraELimpezaListas\ProcuraELimpezaListas\obj\Debug\ProcuraELimpezaListas.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ProcuraELimpezaListas\ProcuraELimpezaListas\obj\Debug\ProcuraELimpezaListas.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ProcuraELimpezaListas\ProcuraELimpezaListas\obj\Debug\ProcuraELimpezaListas.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ProcuraELimpezaListas\ProcuraELimpezaListas\obj\Debug\ProcuraELimpezaListas.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\ProcuraELimpezaListas\ProcuraELimpezaListas\obj\Debug\ProcuraELimpezaListas.exe.config

@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Pessoa\Pessoa\bin\Debug\Pessoa.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Pessoa\Pessoa\bin\Debug\Pessoa.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Pessoa\Pessoa\bin\Debug\Pessoa.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Pessoa\Pessoa\obj\Debug\Pessoa.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Pessoa\Pessoa\obj\Debug\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Pessoa\Pessoa\obj\Debug\Pessoa.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Pessoa\Pessoa\obj\Debug\Pessoa.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Pessoa\Pessoa\obj\Debug\Pessoa.exe.config

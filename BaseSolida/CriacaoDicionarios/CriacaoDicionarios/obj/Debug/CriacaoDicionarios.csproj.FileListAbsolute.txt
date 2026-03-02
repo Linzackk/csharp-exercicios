@@ -1,0 +1,7 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CriacaoDicionarios\CriacaoDicionarios\bin\Debug\CriacaoDicionarios.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CriacaoDicionarios\CriacaoDicionarios\bin\Debug\CriacaoDicionarios.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CriacaoDicionarios\CriacaoDicionarios\bin\Debug\CriacaoDicionarios.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CriacaoDicionarios\CriacaoDicionarios\obj\Debug\CriacaoDicionarios.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CriacaoDicionarios\CriacaoDicionarios\obj\Debug\CriacaoDicionarios.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CriacaoDicionarios\CriacaoDicionarios\obj\Debug\CriacaoDicionarios.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\CriacaoDicionarios\CriacaoDicionarios\obj\Debug\CriacaoDicionarios.pdb

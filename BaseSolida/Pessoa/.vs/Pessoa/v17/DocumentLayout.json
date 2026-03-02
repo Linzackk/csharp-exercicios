@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Pessoa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E3824B-354E-4EEF-8EF5-4A888CA98280}|Pessoa\\Pessoa.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\pessoa\\pessoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E3824B-354E-4EEF-8EF5-4A888CA98280}|Pessoa\\Pessoa.csproj|solutionrelative:pessoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E3824B-354E-4EEF-8EF5-4A888CA98280}|Pessoa\\Pessoa.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\pessoa\\pessoa\\pessoaclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E3824B-354E-4EEF-8EF5-4A888CA98280}|Pessoa\\Pessoa.csproj|solutionrelative:pessoa\\pessoaclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E3824B-354E-4EEF-8EF5-4A888CA98280}|Pessoa\\Pessoa.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\pessoa\\pessoa\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E3824B-354E-4EEF-8EF5-4A888CA98280}|Pessoa\\Pessoa.csproj|solutionrelative:pessoa\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E3824B-354E-4EEF-8EF5-4A888CA98280}|Pessoa\\Pessoa.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\pessoa\\pessoa\\displayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E3824B-354E-4EEF-8EF5-4A888CA98280}|Pessoa\\Pessoa.csproj|solutionrelative:pessoa\\displayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisplayHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Pessoa\\Pessoa\\DisplayHelper.cs",
+              "RelativeDocumentMoniker": "Pessoa\\DisplayHelper.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Pessoa\\Pessoa\\DisplayHelper.cs",
+              "RelativeToolTip": "Pessoa\\DisplayHelper.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T19:27:16.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Pessoa\\Pessoa\\InputHelper.cs",
+              "RelativeDocumentMoniker": "Pessoa\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Pessoa\\Pessoa\\InputHelper.cs",
+              "RelativeToolTip": "Pessoa\\InputHelper.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T19:26:51.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PessoaClasse.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Pessoa\\Pessoa\\PessoaClasse.cs",
+              "RelativeDocumentMoniker": "Pessoa\\PessoaClasse.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Pessoa\\Pessoa\\PessoaClasse.cs",
+              "RelativeToolTip": "Pessoa\\PessoaClasse.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:35:20.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Pessoa\\Pessoa\\Program.cs",
+              "RelativeDocumentMoniker": "Pessoa\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Pessoa\\Pessoa\\Program.cs",
+              "RelativeToolTip": "Pessoa\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:34:54.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

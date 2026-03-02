@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaRpg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E39784-2F0B-475C-8BE3-8B2527FD49E5}|SistemaRpg\\SistemaRpg.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\sistemarpg\\sistemarpg\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E39784-2F0B-475C-8BE3-8B2527FD49E5}|SistemaRpg\\SistemaRpg.csproj|solutionrelative:sistemarpg\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E39784-2F0B-475C-8BE3-8B2527FD49E5}|SistemaRpg\\SistemaRpg.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\sistemarpg\\sistemarpg\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E39784-2F0B-475C-8BE3-8B2527FD49E5}|SistemaRpg\\SistemaRpg.csproj|solutionrelative:sistemarpg\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E39784-2F0B-475C-8BE3-8B2527FD49E5}|SistemaRpg\\SistemaRpg.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\sistemarpg\\sistemarpg\\guerreiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E39784-2F0B-475C-8BE3-8B2527FD49E5}|SistemaRpg\\SistemaRpg.csproj|solutionrelative:sistemarpg\\guerreiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E39784-2F0B-475C-8BE3-8B2527FD49E5}|SistemaRpg\\SistemaRpg.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\sistemarpg\\sistemarpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E39784-2F0B-475C-8BE3-8B2527FD49E5}|SistemaRpg\\SistemaRpg.csproj|solutionrelative:sistemarpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaRpg\\SistemaRpg\\Personagem.cs",
+              "RelativeDocumentMoniker": "SistemaRpg\\Personagem.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaRpg\\SistemaRpg\\Personagem.cs",
+              "RelativeToolTip": "SistemaRpg\\Personagem.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T17:52:43.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mago.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaRpg\\SistemaRpg\\Mago.cs",
+              "RelativeDocumentMoniker": "SistemaRpg\\Mago.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaRpg\\SistemaRpg\\Mago.cs",
+              "RelativeToolTip": "SistemaRpg\\Mago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T17:52:51.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Guerreiro.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaRpg\\SistemaRpg\\Guerreiro.cs",
+              "RelativeDocumentMoniker": "SistemaRpg\\Guerreiro.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaRpg\\SistemaRpg\\Guerreiro.cs",
+              "RelativeToolTip": "SistemaRpg\\Guerreiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T18:04:04.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaRpg\\SistemaRpg\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaRpg\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaRpg\\SistemaRpg\\Program.cs",
+              "RelativeToolTip": "SistemaRpg\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T17:52:34.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

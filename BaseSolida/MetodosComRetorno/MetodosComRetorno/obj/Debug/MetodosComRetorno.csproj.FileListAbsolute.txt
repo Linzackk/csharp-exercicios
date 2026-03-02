@@ -1,0 +1,7 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\MetodosComRetorno\MetodosComRetorno\bin\Debug\MetodosComRetorno.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\MetodosComRetorno\MetodosComRetorno\bin\Debug\MetodosComRetorno.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\MetodosComRetorno\MetodosComRetorno\bin\Debug\MetodosComRetorno.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\MetodosComRetorno\MetodosComRetorno\obj\Debug\MetodosComRetorno.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\MetodosComRetorno\MetodosComRetorno\obj\Debug\MetodosComRetorno.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\MetodosComRetorno\MetodosComRetorno\obj\Debug\MetodosComRetorno.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\MetodosComRetorno\MetodosComRetorno\obj\Debug\MetodosComRetorno.pdb
