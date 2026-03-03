@@ -15,7 +15,6 @@ namespace DateTimeEx
             {
                 CalculadoraDiasVivos();
             }
-
         }
         static void CalculadoraDiasVivos()
         {
