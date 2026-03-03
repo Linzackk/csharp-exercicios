@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\Heranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{586A683D-EB85-4E37-A2D4-92553EC6C5C9}|Heranca\\Heranca.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\heranca\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A683D-EB85-4E37-A2D4-92553EC6C5C9}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586A683D-EB85-4E37-A2D4-92553EC6C5C9}|Heranca\\Heranca.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\heranca\\heranca\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A683D-EB85-4E37-A2D4-92553EC6C5C9}|Heranca\\Heranca.csproj|solutionrelative:heranca\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586A683D-EB85-4E37-A2D4-92553EC6C5C9}|Heranca\\Heranca.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\heranca\\heranca\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A683D-EB85-4E37-A2D4-92553EC6C5C9}|Heranca\\Heranca.csproj|solutionrelative:heranca\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586A683D-EB85-4E37-A2D4-92553EC6C5C9}|Heranca\\Heranca.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\heranca\\heranca\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A683D-EB85-4E37-A2D4-92553EC6C5C9}|Heranca\\Heranca.csproj|solutionrelative:heranca\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586A683D-EB85-4E37-A2D4-92553EC6C5C9}|Heranca\\Heranca.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\heranca\\heranca\\formasgeometricas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A683D-EB85-4E37-A2D4-92553EC6C5C9}|Heranca\\Heranca.csproj|solutionrelative:heranca\\formasgeometricas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\Heranca\\Heranca\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Heranca\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\Heranca\\Heranca\\Triangulo.cs*",
+              "RelativeToolTip": "Heranca\\Triangulo.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:56:53.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\Heranca\\Heranca\\Circulo.cs",
+              "RelativeDocumentMoniker": "Heranca\\Circulo.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\Heranca\\Heranca\\Circulo.cs*",
+              "RelativeToolTip": "Heranca\\Circulo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:56:46.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\Heranca\\Heranca\\Quadrado.cs",
+              "RelativeDocumentMoniker": "Heranca\\Quadrado.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\Heranca\\Heranca\\Quadrado.cs*",
+              "RelativeToolTip": "Heranca\\Quadrado.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:56:42.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormasGeometricas.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\Heranca\\Heranca\\FormasGeometricas.cs",
+              "RelativeDocumentMoniker": "Heranca\\FormasGeometricas.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\Heranca\\Heranca\\FormasGeometricas.cs*",
+              "RelativeToolTip": "Heranca\\FormasGeometricas.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:53:22.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\Heranca\\Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\Heranca\\Heranca\\Program.cs*",
+              "RelativeToolTip": "Heranca\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:53:07.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

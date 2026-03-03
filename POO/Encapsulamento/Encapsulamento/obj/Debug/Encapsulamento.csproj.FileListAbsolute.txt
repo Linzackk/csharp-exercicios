@@ -1,0 +1,7 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.pdb

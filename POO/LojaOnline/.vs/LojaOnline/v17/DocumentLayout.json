@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\lojaonline\\lojaonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|solutionrelative:lojaonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\lojaonline\\lojaonline\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|solutionrelative:lojaonline\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\lojaonline\\lojaonline\\pagamentopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|solutionrelative:lojaonline\\pagamentopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\lojaonline\\lojaonline\\pagamentocartao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|solutionrelative:lojaonline\\pagamentocartao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\lojaonline\\lojaonline\\clientecomum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|solutionrelative:lojaonline\\clientecomum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\lojaonline\\lojaonline\\clientepremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|solutionrelative:lojaonline\\clientepremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\lojaonline\\lojaonline\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|solutionrelative:lojaonline\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\lojaonline\\lojaonline\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|solutionrelative:lojaonline\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\lojaonline\\lojaonline\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D9BBC4-CCB5-4880-99D9-C5173189E79F}|LojaOnline\\LojaOnline.csproj|solutionrelative:lojaonline\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientePremium.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\ClientePremium.cs",
+              "RelativeDocumentMoniker": "LojaOnline\\ClientePremium.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\ClientePremium.cs",
+              "RelativeToolTip": "LojaOnline\\ClientePremium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:59:29.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteComum.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\ClienteComum.cs",
+              "RelativeDocumentMoniker": "LojaOnline\\ClienteComum.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\ClienteComum.cs",
+              "RelativeToolTip": "LojaOnline\\ClienteComum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:58:14.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\Cliente.cs",
+              "RelativeDocumentMoniker": "LojaOnline\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\Cliente.cs",
+              "RelativeToolTip": "LojaOnline\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:55:26.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagamentoCartao.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\PagamentoCartao.cs",
+              "RelativeDocumentMoniker": "LojaOnline\\PagamentoCartao.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\PagamentoCartao.cs",
+              "RelativeToolTip": "LojaOnline\\PagamentoCartao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:51:23.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagamentoPix.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\PagamentoPix.cs",
+              "RelativeDocumentMoniker": "LojaOnline\\PagamentoPix.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\PagamentoPix.cs",
+              "RelativeToolTip": "LojaOnline\\PagamentoPix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:48:28.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\Pagamento.cs",
+              "RelativeDocumentMoniker": "LojaOnline\\Pagamento.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\Pagamento.cs",
+              "RelativeToolTip": "LojaOnline\\Pagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:41:15.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\Pedido.cs",
+              "RelativeDocumentMoniker": "LojaOnline\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\Pedido.cs",
+              "RelativeToolTip": "LojaOnline\\Pedido.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:27:36.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\Item.cs",
+              "RelativeDocumentMoniker": "LojaOnline\\Item.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\Item.cs",
+              "RelativeToolTip": "LojaOnline\\Item.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:21:45.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\Program.cs",
+              "RelativeDocumentMoniker": "LojaOnline\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaOnline\\LojaOnline\\Program.cs",
+              "RelativeToolTip": "LojaOnline\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:21:34.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
