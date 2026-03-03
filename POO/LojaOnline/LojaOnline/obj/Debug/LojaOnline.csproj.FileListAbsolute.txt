@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\LojaOnline\LojaOnline\bin\Debug\LojaOnline.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\LojaOnline\LojaOnline\bin\Debug\LojaOnline.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\LojaOnline\LojaOnline\bin\Debug\LojaOnline.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\LojaOnline\LojaOnline\obj\Debug\LojaOnline.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\LojaOnline\LojaOnline\obj\Debug\LojaOnline.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\LojaOnline\LojaOnline\obj\Debug\LojaOnline.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\LojaOnline\LojaOnline\obj\Debug\LojaOnline.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\LojaOnline\LojaOnline\obj\Debug\LojaOnline.exe.config
