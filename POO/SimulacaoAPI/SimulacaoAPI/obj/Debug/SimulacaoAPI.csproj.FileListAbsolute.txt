@@ -1,0 +1,7 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SimulacaoAPI\SimulacaoAPI\bin\Debug\SimulacaoAPI.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SimulacaoAPI\SimulacaoAPI\bin\Debug\SimulacaoAPI.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SimulacaoAPI\SimulacaoAPI\bin\Debug\SimulacaoAPI.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SimulacaoAPI\SimulacaoAPI\obj\Debug\SimulacaoAPI.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SimulacaoAPI\SimulacaoAPI\obj\Debug\SimulacaoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SimulacaoAPI\SimulacaoAPI\obj\Debug\SimulacaoAPI.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SimulacaoAPI\SimulacaoAPI\obj\Debug\SimulacaoAPI.pdb

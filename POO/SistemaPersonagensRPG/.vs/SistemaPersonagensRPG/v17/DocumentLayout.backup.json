@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaPersonagensRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFCEAAF-9B89-4370-B491-8CEA197D5F47}|SistemaPersonagensRPG\\SistemaPersonagensRPG.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\sistemapersonagensrpg\\sistemapersonagensrpg\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFCEAAF-9B89-4370-B491-8CEA197D5F47}|SistemaPersonagensRPG\\SistemaPersonagensRPG.csproj|solutionrelative:sistemapersonagensrpg\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFCEAAF-9B89-4370-B491-8CEA197D5F47}|SistemaPersonagensRPG\\SistemaPersonagensRPG.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\sistemapersonagensrpg\\sistemapersonagensrpg\\guerreiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFCEAAF-9B89-4370-B491-8CEA197D5F47}|SistemaPersonagensRPG\\SistemaPersonagensRPG.csproj|solutionrelative:sistemapersonagensrpg\\guerreiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFCEAAF-9B89-4370-B491-8CEA197D5F47}|SistemaPersonagensRPG\\SistemaPersonagensRPG.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\sistemapersonagensrpg\\sistemapersonagensrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFCEAAF-9B89-4370-B491-8CEA197D5F47}|SistemaPersonagensRPG\\SistemaPersonagensRPG.csproj|solutionrelative:sistemapersonagensrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFCEAAF-9B89-4370-B491-8CEA197D5F47}|SistemaPersonagensRPG\\SistemaPersonagensRPG.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\sistemapersonagensrpg\\sistemapersonagensrpg\\arqueiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFCEAAF-9B89-4370-B491-8CEA197D5F47}|SistemaPersonagensRPG\\SistemaPersonagensRPG.csproj|solutionrelative:sistemapersonagensrpg\\arqueiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFCEAAF-9B89-4370-B491-8CEA197D5F47}|SistemaPersonagensRPG\\SistemaPersonagensRPG.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\sistemapersonagensrpg\\sistemapersonagensrpg\\iataque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFCEAAF-9B89-4370-B491-8CEA197D5F47}|SistemaPersonagensRPG\\SistemaPersonagensRPG.csproj|solutionrelative:sistemapersonagensrpg\\iataque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFCEAAF-9B89-4370-B491-8CEA197D5F47}|SistemaPersonagensRPG\\SistemaPersonagensRPG.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\sistemapersonagensrpg\\sistemapersonagensrpg\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFCEAAF-9B89-4370-B491-8CEA197D5F47}|SistemaPersonagensRPG\\SistemaPersonagensRPG.csproj|solutionrelative:sistemapersonagensrpg\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Arqueiro.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaPersonagensRPG\\SistemaPersonagensRPG\\Arqueiro.cs",
+              "RelativeDocumentMoniker": "SistemaPersonagensRPG\\Arqueiro.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaPersonagensRPG\\SistemaPersonagensRPG\\Arqueiro.cs",
+              "RelativeToolTip": "SistemaPersonagensRPG\\Arqueiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T18:14:29.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mago.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaPersonagensRPG\\SistemaPersonagensRPG\\Mago.cs",
+              "RelativeDocumentMoniker": "SistemaPersonagensRPG\\Mago.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaPersonagensRPG\\SistemaPersonagensRPG\\Mago.cs*",
+              "RelativeToolTip": "SistemaPersonagensRPG\\Mago.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T18:14:25.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guerreiro.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaPersonagensRPG\\SistemaPersonagensRPG\\Guerreiro.cs",
+              "RelativeDocumentMoniker": "SistemaPersonagensRPG\\Guerreiro.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaPersonagensRPG\\SistemaPersonagensRPG\\Guerreiro.cs*",
+              "RelativeToolTip": "SistemaPersonagensRPG\\Guerreiro.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T18:14:21.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAtaque.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaPersonagensRPG\\SistemaPersonagensRPG\\IAtaque.cs",
+              "RelativeDocumentMoniker": "SistemaPersonagensRPG\\IAtaque.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaPersonagensRPG\\SistemaPersonagensRPG\\IAtaque.cs",
+              "RelativeToolTip": "SistemaPersonagensRPG\\IAtaque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T18:05:03.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaPersonagensRPG\\SistemaPersonagensRPG\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaPersonagensRPG\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaPersonagensRPG\\SistemaPersonagensRPG\\Program.cs",
+              "RelativeToolTip": "SistemaPersonagensRPG\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T18:04:56.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaPersonagensRPG\\SistemaPersonagensRPG\\Personagem.cs",
+              "RelativeDocumentMoniker": "SistemaPersonagensRPG\\Personagem.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SistemaPersonagensRPG\\SistemaPersonagensRPG\\Personagem.cs",
+              "RelativeToolTip": "SistemaPersonagensRPG\\Personagem.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T18:05:43.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

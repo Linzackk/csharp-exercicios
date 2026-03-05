@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaPersonagensRPG\SistemaPersonagensRPG\obj\Debug\SistemaPersonagensRPG.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaPersonagensRPG\SistemaPersonagensRPG\obj\Debug\SistemaPersonagensRPG.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaPersonagensRPG\SistemaPersonagensRPG\bin\Debug\SistemaPersonagensRPG.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaPersonagensRPG\SistemaPersonagensRPG\bin\Debug\SistemaPersonagensRPG.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaPersonagensRPG\SistemaPersonagensRPG\bin\Debug\SistemaPersonagensRPG.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaPersonagensRPG\SistemaPersonagensRPG\obj\Debug\SistemaPersonagensRPG.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaPersonagensRPG\SistemaPersonagensRPG\obj\Debug\SistemaPersonagensRPG.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\SistemaPersonagensRPG\SistemaPersonagensRPG\obj\Debug\SistemaPersonagensRPG.exe.config
