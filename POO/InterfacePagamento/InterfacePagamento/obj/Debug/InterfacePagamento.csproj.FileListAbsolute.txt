@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\InterfacePagamento\InterfacePagamento\bin\Debug\InterfacePagamento.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\InterfacePagamento\InterfacePagamento\bin\Debug\InterfacePagamento.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\InterfacePagamento\InterfacePagamento\bin\Debug\InterfacePagamento.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\InterfacePagamento\InterfacePagamento\obj\Debug\InterfacePagamento.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\InterfacePagamento\InterfacePagamento\obj\Debug\InterfacePagamento.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\InterfacePagamento\InterfacePagamento\obj\Debug\InterfacePagamento.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\InterfacePagamento\InterfacePagamento\obj\Debug\InterfacePagamento.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\InterfacePagamento\InterfacePagamento\obj\Debug\InterfacePagamento.exe.config

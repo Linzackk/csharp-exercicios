@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaProdutosAvancada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A456E9FE-6BC8-444E-B77E-A7086D692A31}|LojaProdutosAvancada\\LojaProdutosAvancada.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\lojaprodutosavancada\\lojaprodutosavancada\\produtofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A456E9FE-6BC8-444E-B77E-A7086D692A31}|LojaProdutosAvancada\\LojaProdutosAvancada.csproj|solutionrelative:lojaprodutosavancada\\produtofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A456E9FE-6BC8-444E-B77E-A7086D692A31}|LojaProdutosAvancada\\LojaProdutosAvancada.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\lojaprodutosavancada\\lojaprodutosavancada\\produtodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A456E9FE-6BC8-444E-B77E-A7086D692A31}|LojaProdutosAvancada\\LojaProdutosAvancada.csproj|solutionrelative:lojaprodutosavancada\\produtodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A456E9FE-6BC8-444E-B77E-A7086D692A31}|LojaProdutosAvancada\\LojaProdutosAvancada.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\lojaprodutosavancada\\lojaprodutosavancada\\produtopremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A456E9FE-6BC8-444E-B77E-A7086D692A31}|LojaProdutosAvancada\\LojaProdutosAvancada.csproj|solutionrelative:lojaprodutosavancada\\produtopremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A456E9FE-6BC8-444E-B77E-A7086D692A31}|LojaProdutosAvancada\\LojaProdutosAvancada.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\lojaprodutosavancada\\lojaprodutosavancada\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A456E9FE-6BC8-444E-B77E-A7086D692A31}|LojaProdutosAvancada\\LojaProdutosAvancada.csproj|solutionrelative:lojaprodutosavancada\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A456E9FE-6BC8-444E-B77E-A7086D692A31}|LojaProdutosAvancada\\LojaProdutosAvancada.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\lojaprodutosavancada\\lojaprodutosavancada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A456E9FE-6BC8-444E-B77E-A7086D692A31}|LojaProdutosAvancada\\LojaProdutosAvancada.csproj|solutionrelative:lojaprodutosavancada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoPremium.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaProdutosAvancada\\LojaProdutosAvancada\\ProdutoPremium.cs",
+              "RelativeDocumentMoniker": "LojaProdutosAvancada\\ProdutoPremium.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaProdutosAvancada\\LojaProdutosAvancada\\ProdutoPremium.cs",
+              "RelativeToolTip": "LojaProdutosAvancada\\ProdutoPremium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:54:59.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoDigital.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaProdutosAvancada\\LojaProdutosAvancada\\ProdutoDigital.cs",
+              "RelativeDocumentMoniker": "LojaProdutosAvancada\\ProdutoDigital.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaProdutosAvancada\\LojaProdutosAvancada\\ProdutoDigital.cs",
+              "RelativeToolTip": "LojaProdutosAvancada\\ProdutoDigital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:54:53.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoFisico.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaProdutosAvancada\\LojaProdutosAvancada\\ProdutoFisico.cs",
+              "RelativeDocumentMoniker": "LojaProdutosAvancada\\ProdutoFisico.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaProdutosAvancada\\LojaProdutosAvancada\\ProdutoFisico.cs",
+              "RelativeToolTip": "LojaProdutosAvancada\\ProdutoFisico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:54:42.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaProdutosAvancada\\LojaProdutosAvancada\\Produto.cs",
+              "RelativeDocumentMoniker": "LojaProdutosAvancada\\Produto.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaProdutosAvancada\\LojaProdutosAvancada\\Produto.cs",
+              "RelativeToolTip": "LojaProdutosAvancada\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:52:25.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaProdutosAvancada\\LojaProdutosAvancada\\Program.cs",
+              "RelativeDocumentMoniker": "LojaProdutosAvancada\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\LojaProdutosAvancada\\LojaProdutosAvancada\\Program.cs",
+              "RelativeToolTip": "LojaProdutosAvancada\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:52:18.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

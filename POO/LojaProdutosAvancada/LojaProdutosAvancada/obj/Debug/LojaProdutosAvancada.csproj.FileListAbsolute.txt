@@ -1,0 +1,8 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\LojaProdutosAvancada\LojaProdutosAvancada\bin\Debug\LojaProdutosAvancada.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\LojaProdutosAvancada\LojaProdutosAvancada\bin\Debug\LojaProdutosAvancada.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\LojaProdutosAvancada\LojaProdutosAvancada\bin\Debug\LojaProdutosAvancada.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\LojaProdutosAvancada\LojaProdutosAvancada\obj\Debug\LojaProdutosAvancada.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\LojaProdutosAvancada\LojaProdutosAvancada\obj\Debug\LojaProdutosAvancada.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\LojaProdutosAvancada\LojaProdutosAvancada\obj\Debug\LojaProdutosAvancada.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\LojaProdutosAvancada\LojaProdutosAvancada\obj\Debug\LojaProdutosAvancada.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\LojaProdutosAvancada\LojaProdutosAvancada\obj\Debug\LojaProdutosAvancada.exe.config
