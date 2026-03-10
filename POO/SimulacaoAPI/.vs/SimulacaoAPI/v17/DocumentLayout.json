@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\simulacaoapi\\application\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|solutionrelative:simulacaoapi\\application\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\simulacaoapi\\application\\finalizarpedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|solutionrelative:simulacaoapi\\application\\finalizarpedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\simulacaoapi\\infrastructure\\pedidorepositoryfake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|solutionrelative:simulacaoapi\\infrastructure\\pedidorepositoryfake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\simulacaoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|solutionrelative:simulacaoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\simulacaoapi\\application\\adicionarprodutoaopedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|solutionrelative:simulacaoapi\\application\\adicionarprodutoaopedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\simulacaoapi\\domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|solutionrelative:simulacaoapi\\domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\simulacaoapi\\simulacaoapi\\controller\\pedidocontrollersimulado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|solutionrelative:simulacaoapi\\controller\\pedidocontrollersimulado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\simulacaoapi\\simulacaoapi\\application\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|solutionrelative:simulacaoapi\\application\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\simulacaoapi\\simulacaoapi\\application\\finalizarpedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|solutionrelative:simulacaoapi\\application\\finalizarpedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\simulacaoapi\\simulacaoapi\\application\\criarpedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|solutionrelative:simulacaoapi\\application\\criarpedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\simulacaoapi\\simulacaoapi\\application\\adicionarprodutoaopedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|solutionrelative:simulacaoapi\\application\\adicionarprodutoaopedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\simulacaoapi\\simulacaoapi\\infrastructure\\pedidorepositoryfake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|solutionrelative:simulacaoapi\\infrastructure\\pedidorepositoryfake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\simulacaoapi\\simulacaoapi\\domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|solutionrelative:simulacaoapi\\domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\simulacaoapi\\simulacaoapi\\domain\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\simulacaoapi\\domain\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|solutionrelative:simulacaoapi\\domain\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\poo\\simulacaoapi\\simulacaoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|solutionrelative:simulacaoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\simulacaoapi\\application\\criarpedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B3C133-6FF5-4B51-A7CB-8DFCD0C78145}|SimulacaoAPI\\SimulacaoAPI.csproj|solutionrelative:simulacaoapi\\application\\criarpedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "PedidoControllerSimulado.cs",
               "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\SimulacaoAPI\\Controller\\PedidoControllerSimulado.cs",
               "RelativeDocumentMoniker": "SimulacaoAPI\\Controller\\PedidoControllerSimulado.cs",
               "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\SimulacaoAPI\\Controller\\PedidoControllerSimulado.cs",
               "RelativeToolTip": "SimulacaoAPI\\Controller\\PedidoControllerSimulado.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T19:50:08.106Z",
               "EditorCaption": ""
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\SimulacaoAPI\\Program.cs",
               "RelativeDocumentMoniker": "SimulacaoAPI\\Program.cs",
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FinalizarPedidoService.cs",
               "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\SimulacaoAPI\\Application\\FinalizarPedidoService.cs",
               "RelativeDocumentMoniker": "SimulacaoAPI\\Application\\FinalizarPedidoService.cs",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "PedidoRepositoryFake.cs",
               "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\SimulacaoAPI\\Infrastructure\\PedidoRepositoryFake.cs",
               "RelativeDocumentMoniker": "SimulacaoAPI\\Infrastructure\\PedidoRepositoryFake.cs",
@@ -119,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "IPedidoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\SimulacaoAPI\\Application\\IPedidoRepository.cs",
               "RelativeDocumentMoniker": "SimulacaoAPI\\Application\\IPedidoRepository.cs",
@@ -132,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "CriarPedidoService.cs",
               "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\SimulacaoAPI\\Application\\CriarPedidoService.cs",
               "RelativeDocumentMoniker": "SimulacaoAPI\\Application\\CriarPedidoService.cs",
@@ -140,8 +140,7 @@
               "RelativeToolTip": "SimulacaoAPI\\Application\\CriarPedidoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T19:48:38.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T19:48:38.357Z"
             },
             {
               "$type": "Document",
@@ -151,14 +150,14 @@
               "RelativeDocumentMoniker": "SimulacaoAPI\\Domain\\Pedido.cs",
               "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\SimulacaoAPI\\Domain\\Pedido.cs",
               "RelativeToolTip": "SimulacaoAPI\\Domain\\Pedido.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAIwB4AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwB4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T19:14:13.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\POO\\SimulacaoAPI\\SimulacaoAPI\\Domain\\Produto.cs",
               "RelativeDocumentMoniker": "SimulacaoAPI\\Domain\\Produto.cs",

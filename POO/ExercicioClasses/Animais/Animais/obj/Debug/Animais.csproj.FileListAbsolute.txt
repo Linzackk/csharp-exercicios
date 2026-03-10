@@ -1,0 +1,7 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\ExercicioClasses\Animais\Animais\obj\Debug\Animais.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\ExercicioClasses\Animais\Animais\obj\Debug\Animais.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\ExercicioClasses\Animais\Animais\bin\Debug\Animais.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\ExercicioClasses\Animais\Animais\bin\Debug\Animais.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\ExercicioClasses\Animais\Animais\bin\Debug\Animais.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\ExercicioClasses\Animais\Animais\obj\Debug\Animais.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\POO\ExercicioClasses\Animais\Animais\obj\Debug\Animais.pdb
