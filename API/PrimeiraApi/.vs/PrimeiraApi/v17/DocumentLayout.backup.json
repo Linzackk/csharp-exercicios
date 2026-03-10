@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\PrimeiraApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0332B0E-5D9F-413A-8886-B5DEADF5BF5D}|PrimeiraApi\\PrimeiraApi.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\primeiraapi\\primeiraapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0332B0E-5D9F-413A-8886-B5DEADF5BF5D}|PrimeiraApi\\PrimeiraApi.csproj|solutionrelative:primeiraapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0332B0E-5D9F-413A-8886-B5DEADF5BF5D}|PrimeiraApi\\PrimeiraApi.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\primeiraapi\\primeiraapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0332B0E-5D9F-413A-8886-B5DEADF5BF5D}|PrimeiraApi\\PrimeiraApi.csproj|solutionrelative:primeiraapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\PrimeiraApi\\PrimeiraApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PrimeiraApi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\PrimeiraApi\\PrimeiraApi\\Models\\Product.cs",
+              "RelativeToolTip": "PrimeiraApi\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T18:45:04.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\PrimeiraApi\\PrimeiraApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "PrimeiraApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\PrimeiraApi\\PrimeiraApi\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "PrimeiraApi\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T18:36:43.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
