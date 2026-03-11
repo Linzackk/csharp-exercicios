@@ -56,8 +56,6 @@ namespace CrudProdutos.Controllers
             try
             {
                 _service.CriarNovoProduto(produto);
-                Console.WriteLine("TESTE");
-                Console.WriteLine(produto.Id);
                 return CreatedAtAction(nameof(BuscarProdutoPorId), new { id = produto.Id }, produto);
             }
             catch (ProdutoNaoEncontradoException ex)
