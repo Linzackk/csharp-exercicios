@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\ApiFuncionarios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AAC07540-0E6A-4562-8AD4-E9B97155719C}|ApiFuncionarios\\ApiFuncionarios.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\apifuncionarios\\apifuncionarios\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC07540-0E6A-4562-8AD4-E9B97155719C}|ApiFuncionarios\\ApiFuncionarios.csproj|solutionrelative:apifuncionarios\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AAC07540-0E6A-4562-8AD4-E9B97155719C}|ApiFuncionarios\\ApiFuncionarios.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\apifuncionarios\\apifuncionarios\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC07540-0E6A-4562-8AD4-E9B97155719C}|ApiFuncionarios\\ApiFuncionarios.csproj|solutionrelative:apifuncionarios\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC07540-0E6A-4562-8AD4-E9B97155719C}|ApiFuncionarios\\ApiFuncionarios.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\apifuncionarios\\apifuncionarios\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC07540-0E6A-4562-8AD4-E9B97155719C}|ApiFuncionarios\\ApiFuncionarios.csproj|solutionrelative:apifuncionarios\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAC07540-0E6A-4562-8AD4-E9B97155719C}|ApiFuncionarios\\ApiFuncionarios.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\apifuncionarios\\apifuncionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,18 +54,17 @@
               "RelativeToolTip": "ApiFuncionarios\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T19:18:15.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T19:18:15.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\ApiFuncionarios\\ApiFuncionarios\\Models\\Funcionario.cs",
               "RelativeDocumentMoniker": "ApiFuncionarios\\Models\\Funcionario.cs",
               "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\ApiFuncionarios\\ApiFuncionarios\\Models\\Funcionario.cs",
               "RelativeToolTip": "ApiFuncionarios\\Models\\Funcionario.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA5wBgAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T18:59:17.173Z",
               "EditorCaption": ""
@@ -80,8 +79,7 @@
               "RelativeToolTip": "ApiFuncionarios\\Services\\FuncionarioService.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAuwC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T18:59:01.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T18:59:01.78Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "ApiFuncionarios\\Repository\\IFuncionarioRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T18:58:47.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T18:58:47.961Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "ApiFuncionarios\\Repository\\InMemoryFuncionarioRepository.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wDcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T18:58:34.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T18:58:34.936Z"
             },
             {
               "$type": "Document",
@@ -119,18 +115,17 @@
               "RelativeToolTip": "ApiFuncionarios\\Exceptions\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T18:58:18.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T18:58:18.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FuncionariosController.cs",
               "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\ApiFuncionarios\\ApiFuncionarios\\Controllers\\FuncionariosController.cs",
               "RelativeDocumentMoniker": "ApiFuncionarios\\Controllers\\FuncionariosController.cs",
               "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\ApiFuncionarios\\ApiFuncionarios\\Controllers\\FuncionariosController.cs",
               "RelativeToolTip": "ApiFuncionarios\\Controllers\\FuncionariosController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAIwFsAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwFsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T18:58:00.621Z",
               "EditorCaption": ""
