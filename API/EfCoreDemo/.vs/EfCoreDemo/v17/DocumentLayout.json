@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\employee-management-system\\EfCoreDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9659F9E0-7E95-4181-9EEA-2D6961495002}|EfCoreDemo\\EfCoreDemo.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\employee-management-system\\efcoredemo\\efcoredemo\\controller\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9659F9E0-7E95-4181-9EEA-2D6961495002}|EfCoreDemo\\EfCoreDemo.csproj|solutionrelative:efcoredemo\\controller\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9659F9E0-7E95-4181-9EEA-2D6961495002}|EfCoreDemo\\EfCoreDemo.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\employee-management-system\\efcoredemo\\efcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9659F9E0-7E95-4181-9EEA-2D6961495002}|EfCoreDemo\\EfCoreDemo.csproj|solutionrelative:efcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\employee-management-system\\EfCoreDemo\\EfCoreDemo\\Controller\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "EfCoreDemo\\Controller\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\employee-management-system\\EfCoreDemo\\EfCoreDemo\\Controller\\ProdutoController.cs",
+              "RelativeToolTip": "EfCoreDemo\\Controller\\ProdutoController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T19:15:01.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\employee-management-system\\EfCoreDemo\\EfCoreDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EfCoreDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\employee-management-system\\EfCoreDemo\\EfCoreDemo\\Program.cs",
+              "RelativeToolTip": "EfCoreDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T19:14:11.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
