@@ -54,7 +54,7 @@
               "RelativeDocumentMoniker": "CrudProdutos\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\CrudProdutos\\CrudProdutos\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "CrudProdutos\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAIwEgAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwDkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T17:06:46.973Z",
               "EditorCaption": ""
@@ -69,8 +69,7 @@
               "RelativeToolTip": "CrudProdutos\\Repository\\InMemoryProductsRepository.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAA9wCwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T17:32:01.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T17:32:01.009Z"
             }
           ]
         }

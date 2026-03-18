@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\ApiFuncionarios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AAC07540-0E6A-4562-8AD4-E9B97155719C}|ApiFuncionarios\\ApiFuncionarios.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\apifuncionarios\\apifuncionarios\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC07540-0E6A-4562-8AD4-E9B97155719C}|ApiFuncionarios\\ApiFuncionarios.csproj|solutionrelative:apifuncionarios\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AAC07540-0E6A-4562-8AD4-E9B97155719C}|ApiFuncionarios\\ApiFuncionarios.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\apifuncionarios\\apifuncionarios\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC07540-0E6A-4562-8AD4-E9B97155719C}|ApiFuncionarios\\ApiFuncionarios.csproj|solutionrelative:apifuncionarios\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC07540-0E6A-4562-8AD4-E9B97155719C}|ApiFuncionarios\\ApiFuncionarios.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\apifuncionarios\\apifuncionarios\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC07540-0E6A-4562-8AD4-E9B97155719C}|ApiFuncionarios\\ApiFuncionarios.csproj|solutionrelative:apifuncionarios\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAC07540-0E6A-4562-8AD4-E9B97155719C}|ApiFuncionarios\\ApiFuncionarios.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\apifuncionarios\\apifuncionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,13 +58,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\ApiFuncionarios\\ApiFuncionarios\\Models\\Funcionario.cs",
               "RelativeDocumentMoniker": "ApiFuncionarios\\Models\\Funcionario.cs",
               "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\ApiFuncionarios\\ApiFuncionarios\\Models\\Funcionario.cs",
               "RelativeToolTip": "ApiFuncionarios\\Models\\Funcionario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T18:59:17.173Z",
               "EditorCaption": ""
@@ -119,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FuncionariosController.cs",
               "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\ApiFuncionarios\\ApiFuncionarios\\Controllers\\FuncionariosController.cs",
               "RelativeDocumentMoniker": "ApiFuncionarios\\Controllers\\FuncionariosController.cs",
