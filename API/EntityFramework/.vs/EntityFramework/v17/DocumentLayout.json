@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\EntityFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9376D1F-270D-4399-ADB7-23AB3A899127}|EntityFramework\\EntityFramework.csproj|C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\EntityFramework\\entityframework\\projetodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9376D1F-270D-4399-ADB7-23AB3A899127}|EntityFramework\\EntityFramework.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\entityframework\\entityframework\\projetodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9376D1F-270D-4399-ADB7-23AB3A899127}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\projetodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9376D1F-270D-4399-ADB7-23AB3A899127}|EntityFramework\\EntityFramework.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\entityframework\\entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9376D1F-270D-4399-ADB7-23AB3A899127}|EntityFramework\\EntityFramework.csproj|C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\EntityFramework\\entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9376D1F-270D-4399-ADB7-23AB3A899127}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "EntityFramework\\ProjetoDbContext.cs",
               "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\EntityFramework\\EntityFramework\\ProjetoDbContext.cs",
               "RelativeToolTip": "EntityFramework\\ProjetoDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T18:19:33.24Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "EntityFramework\\Funcionario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T17:39:26.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T17:39:26.305Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "EntityFramework\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T17:39:20.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T17:39:20.387Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "EntityFramework\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-16T18:22:57.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T18:22:57.53Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "EntityFramework\\Ponto.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwC0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T17:41:25.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T17:41:25.775Z"
             }
           ]
         }

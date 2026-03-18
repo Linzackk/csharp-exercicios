@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+FGECygxURw=",
+  "dgSpecHash": "5KOlmyY1zhw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\employee-management-system\\EfCoreDemo\\EfCoreDemo\\EfCoreDemo.csproj",
+  "projectFilePath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\EfCoreDemo\\EfCoreDemo\\EfCoreDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Isaac de Medeiros\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Isaac de Medeiros\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

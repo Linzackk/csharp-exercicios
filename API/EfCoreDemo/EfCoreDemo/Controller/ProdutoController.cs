@@ -1,69 +1,63 @@
 ﻿using EfCoreDemo.Data;
+using EfCoreDemo.Exceptions;
 using EfCoreDemo.Models;
+using EfCoreDemo.Repository;
+using EfCoreDemo.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EfCoreDemo.Controller
 {
-    [ApiController]
     [Route("api/[controller]")]
     public class ProdutoController : ControllerBase
     {
-        private readonly AppDbContext _context;
+        private readonly IProdutoService _service;
         
-        public ProdutoController(AppDbContext context)
+        public ProdutoController(IProdutoService service)
         {
-            _context = context;
+            _service = service;
         }
 
         [HttpPost]
-        public IActionResult CriarNovoProduto([FromBody] Produto produto)
+        public async Task<IActionResult> CriarNovoProduto([FromBody] Produto produto)
         {
-            try
-            {
-                if (string.IsNullOrEmpty(produto.Nome))
-                    throw new ArgumentException("Nome Inválido.");
-
-                if (produto.Preco <= 0)
-                    throw new ArgumentException("Preço inválido.");
-
-                _context.Add(produto);
-                _context.SaveChanges();
-                return CreatedAtAction(nameof(ProcurarProdutoPorId), new {id =  produto.Id}, produto);
-            } catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            await _service.AdicionarProduto(produto);
+            return CreatedAtAction(nameof(ProcurarProdutoPorId), new { id = produto.Id }, produto);
         }
 
         [HttpGet("{id}")]
-        public IActionResult ProcurarProdutoPorId(int id)
+        public async Task<IActionResult> ProcurarProdutoPorId(int id)
         {
-            try
-            {
-                if (id <= 0)
-                    throw new ArgumentException("ID inválido");
-
-                var produtoProcurado = _context.Produtos.Find(id);
-                if (produtoProcurado == null)
-                    return NotFound();
-
-                return Ok(produtoProcurado);
-                
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            var produto = await _service.ObterProduto(id);
+            return Ok(produto);
         }
 
         [HttpGet]
-        public IActionResult ProcurarProdutos()
+        public async Task<IActionResult> ProcurarProdutos()
         {
-            var produtos = _context.Produtos.ToList();
-            if (produtos.Count == 0)
-                return NotFound("Nenhum objeto cadastrado");
-
+            var produtos = await _service.ObterTodosProdutos();
             return Ok(produtos);
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> AtualizarProduto([FromBody] Produto produtoAtualizado, int id)
+        {
+            await _service.AtualizarProduto(produtoAtualizado, id);
+            return NoContent();
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeletarProduto(int id)
+        {
+            await _service.RemoverProduto(id);
+            return NoContent();
+        }
+
+        [HttpGet("teste-real")]
+        public async Task<IActionResult> TesteReal()
+        {
+            await Task.Delay(10);
+            throw new ProdutoNotFound(); // 👈 FORÇA AQUI
+            throw new Exception("Erro real");
         }
     }
 }

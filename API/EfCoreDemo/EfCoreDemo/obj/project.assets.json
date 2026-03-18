@@ -4458,11 +4458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\employee-management-system\\EfCoreDemo\\EfCoreDemo\\EfCoreDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\EfCoreDemo\\EfCoreDemo\\EfCoreDemo.csproj",
       "projectName": "EfCoreDemo",
-      "projectPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\employee-management-system\\EfCoreDemo\\EfCoreDemo\\EfCoreDemo.csproj",
+      "projectPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\EfCoreDemo\\EfCoreDemo\\EfCoreDemo.csproj",
       "packagesPath": "C:\\Users\\Isaac de Medeiros\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\employee-management-system\\EfCoreDemo\\EfCoreDemo\\obj\\",
+      "outputPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\EfCoreDemo\\EfCoreDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
