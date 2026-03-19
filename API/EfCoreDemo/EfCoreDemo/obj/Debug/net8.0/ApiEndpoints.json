@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "produto",
-        "Type": "EfCoreDemo.Models.Produto",
+        "Type": "EfCoreDemo.DTO.ProdutoRequestDTO",
         "IsRequired": true
       }
     ],
@@ -51,7 +51,7 @@
     "Parameters": [
       {
         "Name": "produtoAtualizado",
-        "Type": "EfCoreDemo.Models.Produto",
+        "Type": "EfCoreDemo.DTO.ProdutoRequestDTO",
         "IsRequired": true
       },
       {
@@ -80,12 +80,23 @@
   },
   {
     "ContainingType": "EfCoreDemo.Controller.ProdutoController",
-    "Method": "TesteReal",
-    "RelativePath": "api/Produto/teste-real",
-    "HttpMethod": "GET",
+    "Method": "AtualizarParcialmenteProduto",
+    "RelativePath": "api/Produto/{id}",
+    "HttpMethod": "PATCH",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "produto",
+        "Type": "EfCoreDemo.DTO.ProdutoPatchDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   }
 ]

@@ -1,6 +1,6 @@
-﻿namespace EfCoreDemo.Models
+﻿namespace EfCoreDemo.DTO
 {
-    public class Produto
+    public class ProdutoResponseDTO
     {
         public int Id { get; set; }
         public string Nome { get; set; }

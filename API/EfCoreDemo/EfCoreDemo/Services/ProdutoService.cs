@@ -1,4 +1,6 @@
-﻿using EfCoreDemo.Exceptions;
+﻿using AutoMapper;
+using EfCoreDemo.DTO;
+using EfCoreDemo.Exceptions;
 using EfCoreDemo.Models;
 using EfCoreDemo.Repository;
 
@@ -7,37 +9,39 @@ namespace EfCoreDemo.Services
     public class ProdutoService : IProdutoService
     {
         private readonly IProdutoRepository _repository;
-        public ProdutoService(IProdutoRepository repository)
+        private readonly IMapper _mapper;
+        public ProdutoService(IProdutoRepository repository, IMapper mapper)
         {
             _repository = repository;
+            _mapper = mapper;
         }
 
-        public async Task AdicionarProduto(Produto produto)
+        public async Task<ProdutoResponseDTO> AdicionarProduto(ProdutoRequestDTO dto)
         {
-            // Mapear do DTO de entrada para a Classe
+            if (string.IsNullOrEmpty(dto.Nome))
+                throw new ArgumentException("Nome Inválido");
+
+            if (dto.Preco <= 0)
+                throw new ArgumentException("Preço precisa ser maior que 0");
+
+            var produto = _mapper.Map<Produto>(dto);
             await _repository.AdicionarProduto(produto);
+            return _mapper.Map<ProdutoResponseDTO>(produto);
         }
 
-        public async Task<Produto> ObterProduto(int id)
+        public async Task<ProdutoResponseDTO> ObterProduto(int id)
         {
             var produto = await _repository.ProcurarProduto(id);
             if (produto == null)
-            {
-                Console.WriteLine("Erro!!!");
-                Console.WriteLine(produto);
-                Console.WriteLine("Produto é nulo? ", produto == null);
                 throw new ProdutoNotFound();
-            }
-                
 
-            // Aqui eu deveria mapear para o DTO de saída
-            return produto;
+            return _mapper.Map<ProdutoResponseDTO>(produto);
         }
 
-        public async Task<IReadOnlyList<Produto>> ObterTodosProdutos()
+        public async Task<IReadOnlyList<ProdutoResponseDTO>> ObterTodosProdutos()
         {
-            // Aqui eu deveria pegar e mapear para criar o DTO de saída
-            return await _repository.ProcurarTodosProdutos();
+            var produtos = await _repository.ProcurarTodosProdutos();
+            return _mapper.Map<IReadOnlyList<ProdutoResponseDTO>>(produtos);
         }
 
         public async Task RemoverProduto(int id)
@@ -48,10 +52,11 @@ namespace EfCoreDemo.Services
             await _repository.RemoverProduto(id);
         }
 
-        public async Task AtualizarProduto(Produto produtoAtualizado, int id)
+        public async Task AtualizarProduto(ProdutoRequestDTO produtoAtualizado, int id)
         {
-            if (produtoAtualizado.Id <= 0)
-                throw new ArgumentException("ID inválido.");
+            var produtoRepository = await _repository.ProcurarProduto(id);
+            if (produtoRepository == null)
+                throw new ProdutoNotFound();
 
             if (produtoAtualizado.Nome.Length <= 3)
                 throw new ArgumentException("Nome inválido.");
@@ -59,9 +64,25 @@ namespace EfCoreDemo.Services
             if (produtoAtualizado.Preco <= 0)
                 throw new ArgumentException("Preço inválido.");
 
-            // Aqui eu deveria fazer a montagem da classe conforme as informações do DTO
-            produtoAtualizado.Id = id;
-            await _repository.AtualizarProduto(produtoAtualizado);
+            var produto = _mapper.Map<Produto>(produtoAtualizado);
+            produto.Id = id;
+            await _repository.AtualizarProduto(produto);
+        }
+
+        public async Task AtualizarParcialmenteProduto(ProdutoPatchDTO produto, int id)
+        {
+            var produtoRepository = await _repository.ProcurarProduto(id);
+
+            if (produtoRepository == null)
+                throw new ProdutoNotFound();
+
+            if (produto.Nome != null)
+                produtoRepository.Nome = produto.Nome;
+
+            if (produto.Preco != null)
+                produtoRepository.Preco = produto.Preco.Value;
+
+            await _repository.AtualizarProduto(produtoRepository);
         }
     }
 }

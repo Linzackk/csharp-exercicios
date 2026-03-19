@@ -1,4 +1,5 @@
 ﻿using EfCoreDemo.Data;
+using EfCoreDemo.DTO;
 using EfCoreDemo.Exceptions;
 using EfCoreDemo.Models;
 using EfCoreDemo.Repository;
@@ -18,10 +19,10 @@ namespace EfCoreDemo.Controller
         }
 
         [HttpPost]
-        public async Task<IActionResult> CriarNovoProduto([FromBody] Produto produto)
+        public async Task<IActionResult> CriarNovoProduto([FromBody] ProdutoRequestDTO produto)
         {
-            await _service.AdicionarProduto(produto);
-            return CreatedAtAction(nameof(ProcurarProdutoPorId), new { id = produto.Id }, produto);
+            var produtoCriado = await _service.AdicionarProduto(produto);
+            return CreatedAtAction(nameof(ProcurarProdutoPorId), new { id = produtoCriado.Id }, produtoCriado);
         }
 
         [HttpGet("{id}")]
@@ -39,7 +40,7 @@ namespace EfCoreDemo.Controller
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> AtualizarProduto([FromBody] Produto produtoAtualizado, int id)
+        public async Task<IActionResult> AtualizarProduto([FromBody] ProdutoRequestDTO produtoAtualizado, int id)
         {
             await _service.AtualizarProduto(produtoAtualizado, id);
             return NoContent();
@@ -52,12 +53,11 @@ namespace EfCoreDemo.Controller
             return NoContent();
         }
 
-        [HttpGet("teste-real")]
-        public async Task<IActionResult> TesteReal()
+        [HttpPatch("{id}")]
+        public async Task<IActionResult> AtualizarParcialmenteProduto([FromBody] ProdutoPatchDTO produto, int id)
         {
-            await Task.Delay(10);
-            throw new ProdutoNotFound(); // 👈 FORÇA AQUI
-            throw new Exception("Erro real");
+            await _service.AtualizarParcialmenteProduto(produto, id);
+            return NoContent();
         }
     }
 }
