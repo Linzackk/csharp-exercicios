@@ -1,6 +1,7 @@
 ﻿using EfCoreDemo.Data;
 using EfCoreDemo.Models;
 using EfCoreDemo.Exceptions;
+using Microsoft.EntityFrameworkCore;
 
 namespace EfCoreDemo.Repository
 {
@@ -20,13 +21,17 @@ namespace EfCoreDemo.Repository
 
         public async Task<Produto> ProcurarProduto(int id)
         {
-            var produto = _context.Produtos.Find(id);
+            var produto = _context.Produtos
+                .AsNoTracking()
+                .FirstOrDefault(p => p.Id == id);
             return produto;
         }
 
         public async Task<IReadOnlyList<Produto>> ProcurarTodosProdutos()
         {
-            return _context.Produtos.ToList();
+            return _context.Produtos
+                    .AsNoTracking()
+                    .ToList();
         }
 
         public async Task AtualizarProduto(Produto produtoAtualizado)

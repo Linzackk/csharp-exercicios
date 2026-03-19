@@ -277,3 +277,5 @@ C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\API\EfCoreDemo\Ef
 C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\API\EfCoreDemo\EfCoreDemo\obj\Debug\net8.0\EfCoreDemo.pdb
 C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\API\EfCoreDemo\EfCoreDemo\obj\Debug\net8.0\EfCoreDemo.genruntimeconfig.cache
 C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\API\EfCoreDemo\EfCoreDemo\obj\Debug\net8.0\ref\EfCoreDemo.dll
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\API\EfCoreDemo\EfCoreDemo\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\API\EfCoreDemo\EfCoreDemo\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
