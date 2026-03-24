@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\acessocomjwt\\acessocomjwt\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|solutionrelative:acessocomjwt\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\acessocomjwt\\acessocomjwt\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|solutionrelative:acessocomjwt\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\acessocomjwt\\acessocomjwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|solutionrelative:acessocomjwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\acessocomjwt\\acessocomjwt\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|solutionrelative:acessocomjwt\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\acessocomjwt\\acessocomjwt\\repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|solutionrelative:acessocomjwt\\repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\acessocomjwt\\acessocomjwt\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|solutionrelative:acessocomjwt\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\acessocomjwt\\acessocomjwt\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|solutionrelative:acessocomjwt\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\acessocomjwt\\acessocomjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|solutionrelative:acessocomjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\acessocomjwt\\acessocomjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|solutionrelative:acessocomjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\acessocomjwt\\acessocomjwt\\models\\usuarioresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|solutionrelative:acessocomjwt\\models\\usuarioresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\acessocomjwt\\acessocomjwt\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|solutionrelative:acessocomjwt\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\acessocomjwt\\acessocomjwt\\models\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|solutionrelative:acessocomjwt\\models\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\acessocomjwt\\acessocomjwt\\models\\usuariocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|solutionrelative:acessocomjwt\\models\\usuariocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\acessocomjwt\\acessocomjwt\\utils\\rolesusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB323FA2-10B1-405A-AA89-353F99F7C314}|AcessoComJWT\\AcessoComJWT.csproj|solutionrelative:acessocomjwt\\utils\\rolesusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Program.cs",
+              "RelativeDocumentMoniker": "AcessoComJWT\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Program.cs",
+              "RelativeToolTip": "AcessoComJWT\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAADIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:05:12.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "AcessoComJWT\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "AcessoComJWT\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T17:51:45.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "AcessoComJWT\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Controllers\\UsuariosController.cs*",
+              "RelativeToolTip": "AcessoComJWT\\Controllers\\UsuariosController.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswCYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T17:59:24.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Models\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "AcessoComJWT\\Models\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Models\\LoginRequestDTO.cs",
+              "RelativeToolTip": "AcessoComJWT\\Models\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:24:28.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "AcessoComJWT\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Services\\TokenService.cs",
+              "RelativeToolTip": "AcessoComJWT\\Services\\TokenService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:25:19.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Repository\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "AcessoComJWT\\Repository\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Repository\\IUsuarioRepository.cs",
+              "RelativeToolTip": "AcessoComJWT\\Repository\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T17:45:44.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "AcessoComJWT\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "AcessoComJWT\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T17:47:02.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Models\\UsuarioResponseDTO.cs",
+              "RelativeDocumentMoniker": "AcessoComJWT\\Models\\UsuarioResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Models\\UsuarioResponseDTO.cs",
+              "RelativeToolTip": "AcessoComJWT\\Models\\UsuarioResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T17:44:55.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AcessoComJWT\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AcessoComJWT\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:23:51.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Services\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "AcessoComJWT\\Services\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Services\\IUsuarioService.cs",
+              "RelativeToolTip": "AcessoComJWT\\Services\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T17:50:35.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Models\\UsuarioCreateDTO.cs",
+              "RelativeDocumentMoniker": "AcessoComJWT\\Models\\UsuarioCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Models\\UsuarioCreateDTO.cs",
+              "RelativeToolTip": "AcessoComJWT\\Models\\UsuarioCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T17:44:05.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AcessoComJWT\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Models\\Usuario.cs",
+              "RelativeToolTip": "AcessoComJWT\\Models\\Usuario.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T17:38:52.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\appsettings.json",
+              "RelativeDocumentMoniker": "AcessoComJWT\\appsettings.json",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\appsettings.json",
+              "RelativeToolTip": "AcessoComJWT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T18:27:04.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RolesUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Utils\\RolesUsuario.cs",
+              "RelativeDocumentMoniker": "AcessoComJWT\\Utils\\RolesUsuario.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\AcessoComJWT\\AcessoComJWT\\Utils\\RolesUsuario.cs",
+              "RelativeToolTip": "AcessoComJWT\\Utils\\RolesUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T17:39:50.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
