@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "AutenticationAutorization.Controllers.LoginController",
+    "Method": "Logar",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "AutenticationAutorization.Models.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutenticationAutorization.Controllers.LoginController",
+    "Method": "ValidarAutorizacao",
+    "RelativePath": "api/Login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
