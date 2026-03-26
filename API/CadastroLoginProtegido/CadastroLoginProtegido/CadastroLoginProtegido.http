@@ -1,0 +1,6 @@
+@CadastroLoginProtegido_HostAddress = http://localhost:5089
+
+GET {{CadastroLoginProtegido_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
