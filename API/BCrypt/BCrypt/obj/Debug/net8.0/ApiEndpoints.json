@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "BCrypt.Controllers.LoginController",
+    "Method": "CriarNovoLogin",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "BCrypt.Models.LoginCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BCrypt.Controllers.LoginController",
+    "Method": "ObterTodos",
+    "RelativePath": "api/Login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BCrypt.Controllers.LoginController",
+    "Method": "FazerLogin",
+    "RelativePath": "api/Login/Logar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "infos",
+        "Type": "BCrypt.Models.LoginCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
