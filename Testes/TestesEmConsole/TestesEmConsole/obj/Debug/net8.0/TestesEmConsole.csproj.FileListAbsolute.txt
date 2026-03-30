@@ -1,0 +1,15 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\TestesEmConsole\TestesEmConsole\obj\Debug\net8.0\TestesEmConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\TestesEmConsole\TestesEmConsole\obj\Debug\net8.0\TestesEmConsole.AssemblyInfoInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\TestesEmConsole\TestesEmConsole\obj\Debug\net8.0\TestesEmConsole.AssemblyInfo.cs
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\TestesEmConsole\TestesEmConsole\obj\Debug\net8.0\TestesEmConsole.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\TestesEmConsole\TestesEmConsole\obj\Debug\net8.0\TestesEmConsole.sourcelink.json
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\TestesEmConsole\TestesEmConsole\bin\Debug\net8.0\TestesEmConsole.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\TestesEmConsole\TestesEmConsole\bin\Debug\net8.0\TestesEmConsole.deps.json
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\TestesEmConsole\TestesEmConsole\bin\Debug\net8.0\TestesEmConsole.runtimeconfig.json
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\TestesEmConsole\TestesEmConsole\bin\Debug\net8.0\TestesEmConsole.dll
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\TestesEmConsole\TestesEmConsole\bin\Debug\net8.0\TestesEmConsole.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\TestesEmConsole\TestesEmConsole\obj\Debug\net8.0\TestesEmConsole.dll
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\TestesEmConsole\TestesEmConsole\obj\Debug\net8.0\refint\TestesEmConsole.dll
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\TestesEmConsole\TestesEmConsole\obj\Debug\net8.0\TestesEmConsole.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\TestesEmConsole\TestesEmConsole\obj\Debug\net8.0\TestesEmConsole.genruntimeconfig.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\TestesEmConsole\TestesEmConsole\obj\Debug\net8.0\ref\TestesEmConsole.dll
