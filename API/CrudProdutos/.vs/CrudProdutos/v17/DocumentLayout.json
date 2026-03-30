@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\CrudProdutos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D568A77E-E2BF-4B16-A77F-728430CCF39C}|CrudProdutos\\CrudProdutos.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\crudprodutos\\crudprodutos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D568A77E-E2BF-4B16-A77F-728430CCF39C}|CrudProdutos\\CrudProdutos.csproj|solutionrelative:crudprodutos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1376B317-6AE3-4153-9B41-25BD41556133}|Api.Tests\\Api.Tests.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\crudprodutos\\api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1376B317-6AE3-4153-9B41-25BD41556133}|Api.Tests\\Api.Tests.csproj|solutionrelative:api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D568A77E-E2BF-4B16-A77F-728430CCF39C}|CrudProdutos\\CrudProdutos.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\api\\crudprodutos\\crudprodutos\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D568A77E-E2BF-4B16-A77F-728430CCF39C}|CrudProdutos\\CrudProdutos.csproj|solutionrelative:crudprodutos\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -41,6 +49,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\CrudProdutos\\CrudProdutos\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "CrudProdutos\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\CrudProdutos\\CrudProdutos\\Models\\Produto.cs",
+              "RelativeToolTip": "CrudProdutos\\Models\\Produto.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:16:14.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\CrudProdutos\\Api.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Api.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\CrudProdutos\\Api.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Api.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:15:00.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\CrudProdutos\\CrudProdutos\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "CrudProdutos\\Services\\ProductService.cs",
@@ -53,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ProdutoNaoEncontradoException.cs",
               "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\CrudProdutos\\CrudProdutos\\Exceptions\\ProdutoNaoEncontradoException.cs",
               "RelativeDocumentMoniker": "CrudProdutos\\Exceptions\\ProdutoNaoEncontradoException.cs",
@@ -65,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\CrudProdutos\\CrudProdutos\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "CrudProdutos\\Controllers\\ProductsController.cs",
@@ -73,12 +107,11 @@
               "RelativeToolTip": "CrudProdutos\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAIwDkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T17:06:46.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T17:06:46.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "InMemoryProductsRepository.cs",
               "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\API\\CrudProdutos\\CrudProdutos\\Repository\\InMemoryProductsRepository.cs",
               "RelativeDocumentMoniker": "CrudProdutos\\Repository\\InMemoryProductsRepository.cs",

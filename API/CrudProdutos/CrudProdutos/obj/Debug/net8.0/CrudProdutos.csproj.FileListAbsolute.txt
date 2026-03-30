@@ -18,7 +18,6 @@ C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\API\CrudProdutos\
 C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\API\CrudProdutos\CrudProdutos\obj\Debug\net8.0\CrudProdutos.csproj.CoreCompileInputs.cache
 C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\API\CrudProdutos\CrudProdutos\obj\Debug\net8.0\CrudProdutos.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\API\CrudProdutos\CrudProdutos\obj\Debug\net8.0\CrudProdutos.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\API\CrudProdutos\CrudProdutos\obj\Debug\net8.0\CrudProdutos.sourcelink.json
 C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\API\CrudProdutos\CrudProdutos\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\API\CrudProdutos\CrudProdutos\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\API\CrudProdutos\CrudProdutos\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
