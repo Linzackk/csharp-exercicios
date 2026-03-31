@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\UsoDeTDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDE4C16-DDCC-4D23-8455-801A25CE60B0}|TDD\\TDD.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\usodetdd\\tdd\\testebusca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDE4C16-DDCC-4D23-8455-801A25CE60B0}|TDD\\TDD.csproj|solutionrelative:tdd\\testebusca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D70C9DB-1B45-4AC6-8BA8-53D0DCBED61D}|UsoDeTDD\\UsoDeTDD.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\usodetdd\\usodetdd\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D70C9DB-1B45-4AC6-8BA8-53D0DCBED61D}|UsoDeTDD\\UsoDeTDD.csproj|solutionrelative:usodetdd\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D70C9DB-1B45-4AC6-8BA8-53D0DCBED61D}|UsoDeTDD\\UsoDeTDD.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\usodetdd\\usodetdd\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D70C9DB-1B45-4AC6-8BA8-53D0DCBED61D}|UsoDeTDD\\UsoDeTDD.csproj|solutionrelative:usodetdd\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D70C9DB-1B45-4AC6-8BA8-53D0DCBED61D}|UsoDeTDD\\UsoDeTDD.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\usodetdd\\usodetdd\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D70C9DB-1B45-4AC6-8BA8-53D0DCBED61D}|UsoDeTDD\\UsoDeTDD.csproj|solutionrelative:usodetdd\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D70C9DB-1B45-4AC6-8BA8-53D0DCBED61D}|UsoDeTDD\\UsoDeTDD.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\usodetdd\\usodetdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D70C9DB-1B45-4AC6-8BA8-53D0DCBED61D}|UsoDeTDD\\UsoDeTDD.csproj|solutionrelative:usodetdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\UsoDeTDD\\UsoDeTDD\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "UsoDeTDD\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\UsoDeTDD\\UsoDeTDD\\IUsuarioRepository.cs",
+              "RelativeToolTip": "UsoDeTDD\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:33:56.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\UsoDeTDD\\UsoDeTDD\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "UsoDeTDD\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\UsoDeTDD\\UsoDeTDD\\UsuarioService.cs",
+              "RelativeToolTip": "UsoDeTDD\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:28:03.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\UsoDeTDD\\UsoDeTDD\\Usuario.cs",
+              "RelativeDocumentMoniker": "UsoDeTDD\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\UsoDeTDD\\UsoDeTDD\\Usuario.cs",
+              "RelativeToolTip": "UsoDeTDD\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:27:42.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TesteBusca.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\UsoDeTDD\\TDD\\TesteBusca.cs",
+              "RelativeDocumentMoniker": "TDD\\TesteBusca.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\UsoDeTDD\\TDD\\TesteBusca.cs*",
+              "RelativeToolTip": "TDD\\TesteBusca.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:19:16.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\UsoDeTDD\\UsoDeTDD\\Program.cs",
+              "RelativeDocumentMoniker": "UsoDeTDD\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\UsoDeTDD\\UsoDeTDD\\Program.cs",
+              "RelativeToolTip": "UsoDeTDD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:19:03.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
