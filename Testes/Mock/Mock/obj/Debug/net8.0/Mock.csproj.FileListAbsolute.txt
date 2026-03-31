@@ -1,0 +1,15 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\Mock\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\Mock\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\Mock\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\Mock\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\Mock\Mock\obj\Debug\net8.0\Mock.sourcelink.json
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\Mock\Mock\bin\Debug\net8.0\Mock.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\Mock\Mock\bin\Debug\net8.0\Mock.deps.json
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\Mock\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\Mock\Mock\bin\Debug\net8.0\Mock.dll
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\Mock\Mock\bin\Debug\net8.0\Mock.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\Mock\Mock\obj\Debug\net8.0\Mock.dll
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\Mock\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\Mock\Mock\obj\Debug\net8.0\Mock.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\Mock\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\Mock\Mock\obj\Debug\net8.0\ref\Mock.dll
