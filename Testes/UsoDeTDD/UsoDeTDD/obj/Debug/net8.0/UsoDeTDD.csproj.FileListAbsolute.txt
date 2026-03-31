@@ -1,0 +1,15 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\UsoDeTDD\UsoDeTDD\bin\Debug\net8.0\UsoDeTDD.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\UsoDeTDD\UsoDeTDD\bin\Debug\net8.0\UsoDeTDD.deps.json
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\UsoDeTDD\UsoDeTDD\bin\Debug\net8.0\UsoDeTDD.runtimeconfig.json
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\UsoDeTDD\UsoDeTDD\bin\Debug\net8.0\UsoDeTDD.dll
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\UsoDeTDD\UsoDeTDD\bin\Debug\net8.0\UsoDeTDD.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\UsoDeTDD\UsoDeTDD\obj\Debug\net8.0\UsoDeTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\UsoDeTDD\UsoDeTDD\obj\Debug\net8.0\UsoDeTDD.AssemblyInfoInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\UsoDeTDD\UsoDeTDD\obj\Debug\net8.0\UsoDeTDD.AssemblyInfo.cs
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\UsoDeTDD\UsoDeTDD\obj\Debug\net8.0\UsoDeTDD.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\UsoDeTDD\UsoDeTDD\obj\Debug\net8.0\UsoDeTDD.sourcelink.json
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\UsoDeTDD\UsoDeTDD\obj\Debug\net8.0\UsoDeTDD.dll
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\UsoDeTDD\UsoDeTDD\obj\Debug\net8.0\refint\UsoDeTDD.dll
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\UsoDeTDD\UsoDeTDD\obj\Debug\net8.0\UsoDeTDD.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\UsoDeTDD\UsoDeTDD\obj\Debug\net8.0\UsoDeTDD.genruntimeconfig.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\UsoDeTDD\UsoDeTDD\obj\Debug\net8.0\ref\UsoDeTDD.dll
