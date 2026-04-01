@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\TesteDeIntegracao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7F82AB-F230-49B4-83DE-43F564D7D885}|TesteIntegracao\\TesteIntegracao.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\testedeintegracao\\testeintegracao\\weatherendpointstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7F82AB-F230-49B4-83DE-43F564D7D885}|TesteIntegracao\\TesteIntegracao.csproj|solutionrelative:testeintegracao\\weatherendpointstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498B7333-23BD-4574-8BAD-EE051ED8702C}|TesteDeIntegracao\\TesteDeIntegracao.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\testedeintegracao\\testedeintegracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498B7333-23BD-4574-8BAD-EE051ED8702C}|TesteDeIntegracao\\TesteDeIntegracao.csproj|solutionrelative:testedeintegracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498B7333-23BD-4574-8BAD-EE051ED8702C}|TesteDeIntegracao\\TesteDeIntegracao.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\testedeintegracao\\testedeintegracao\\testedeintegracao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{498B7333-23BD-4574-8BAD-EE051ED8702C}|TesteDeIntegracao\\TesteDeIntegracao.csproj|solutionrelative:testedeintegracao\\testedeintegracao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\TesteDeIntegracao\\TesteDeIntegracao\\Program.cs",
+              "RelativeDocumentMoniker": "TesteDeIntegracao\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\TesteDeIntegracao\\TesteDeIntegracao\\Program.cs",
+              "RelativeToolTip": "TesteDeIntegracao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:28:49.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TesteDeIntegracao",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\TesteDeIntegracao\\TesteDeIntegracao\\TesteDeIntegracao.csproj",
+              "RelativeDocumentMoniker": "TesteDeIntegracao\\TesteDeIntegracao.csproj",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\TesteDeIntegracao\\TesteDeIntegracao\\TesteDeIntegracao.csproj",
+              "RelativeToolTip": "TesteDeIntegracao\\TesteDeIntegracao.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-01T17:28:13.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherEndpointsTests.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\TesteDeIntegracao\\TesteIntegracao\\WeatherEndpointsTests.cs",
+              "RelativeDocumentMoniker": "TesteIntegracao\\WeatherEndpointsTests.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\TesteDeIntegracao\\TesteIntegracao\\WeatherEndpointsTests.cs",
+              "RelativeToolTip": "TesteIntegracao\\WeatherEndpointsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:21:40.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
