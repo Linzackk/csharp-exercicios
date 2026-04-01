@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D13AB07-FBE8-4B41-BE8E-5CED3FDAEB94}|Integracao.Tests\\Integracao.Tests.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\integracao\\integracao.tests\\usuariointegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D13AB07-FBE8-4B41-BE8E-5CED3FDAEB94}|Integracao.Tests\\Integracao.Tests.csproj|solutionrelative:integracao.tests\\usuariointegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A775471F-581C-4D22-8122-596B8D4273C3}|Integracao\\Integracao.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\integracao\\integracao\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A775471F-581C-4D22-8122-596B8D4273C3}|Integracao\\Integracao.csproj|solutionrelative:integracao\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A775471F-581C-4D22-8122-596B8D4273C3}|Integracao\\Integracao.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\integracao\\integracao\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A775471F-581C-4D22-8122-596B8D4273C3}|Integracao\\Integracao.csproj|solutionrelative:integracao\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D13AB07-FBE8-4B41-BE8E-5CED3FDAEB94}|Integracao.Tests\\Integracao.Tests.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\integracao\\integracao.tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D13AB07-FBE8-4B41-BE8E-5CED3FDAEB94}|Integracao.Tests\\Integracao.Tests.csproj|solutionrelative:integracao.tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A775471F-581C-4D22-8122-596B8D4273C3}|Integracao\\Integracao.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\integracao\\integracao\\models\\usuarioupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A775471F-581C-4D22-8122-596B8D4273C3}|Integracao\\Integracao.csproj|solutionrelative:integracao\\models\\usuarioupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A775471F-581C-4D22-8122-596B8D4273C3}|Integracao\\Integracao.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\integracao\\integracao\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A775471F-581C-4D22-8122-596B8D4273C3}|Integracao\\Integracao.csproj|solutionrelative:integracao\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A775471F-581C-4D22-8122-596B8D4273C3}|Integracao\\Integracao.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\integracao\\integracao\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A775471F-581C-4D22-8122-596B8D4273C3}|Integracao\\Integracao.csproj|solutionrelative:integracao\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A775471F-581C-4D22-8122-596B8D4273C3}|Integracao\\Integracao.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\integracao\\integracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A775471F-581C-4D22-8122-596B8D4273C3}|Integracao\\Integracao.csproj|solutionrelative:integracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A775471F-581C-4D22-8122-596B8D4273C3}|Integracao\\Integracao.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\integracao\\integracao\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A775471F-581C-4D22-8122-596B8D4273C3}|Integracao\\Integracao.csproj|solutionrelative:integracao\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D13AB07-FBE8-4B41-BE8E-5CED3FDAEB94}|Integracao.Tests\\Integracao.Tests.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\integracao\\integracao.tests\\integracao.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D13AB07-FBE8-4B41-BE8E-5CED3FDAEB94}|Integracao.Tests\\Integracao.Tests.csproj|solutionrelative:integracao.tests\\integracao.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A775471F-581C-4D22-8122-596B8D4273C3}|Integracao\\Integracao.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\integracao\\integracao\\integracao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A775471F-581C-4D22-8122-596B8D4273C3}|Integracao\\Integracao.csproj|solutionrelative:integracao\\integracao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao\\Models\\UsuarioUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Integracao\\Models\\UsuarioUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao\\Models\\UsuarioUpdateDTO.cs",
+              "RelativeToolTip": "Integracao\\Models\\UsuarioUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:51:08.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao.Tests\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "Integracao.Tests\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao.Tests\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "Integracao.Tests\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAhwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:35:56.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao.Tests\\UsuarioIntegrationTests.cs",
+              "RelativeDocumentMoniker": "Integracao.Tests\\UsuarioIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao.Tests\\UsuarioIntegrationTests.cs",
+              "RelativeToolTip": "Integracao.Tests\\UsuarioIntegrationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:11:37.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Integracao\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "Integracao\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAApwCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:52:30.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Integracao\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Integracao\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:50:44.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao\\Program.cs",
+              "RelativeDocumentMoniker": "Integracao\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao\\Program.cs",
+              "RelativeToolTip": "Integracao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:35:34.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Integracao\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Integracao\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCAAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:55:01.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Integracao\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Integracao\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:48:17.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Integracao\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao\\Models\\Usuario.cs",
+              "RelativeToolTip": "Integracao\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:47:16.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Integracao.Tests",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao.Tests\\Integracao.Tests.csproj",
+              "RelativeDocumentMoniker": "Integracao.Tests\\Integracao.Tests.csproj",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao.Tests\\Integracao.Tests.csproj",
+              "RelativeToolTip": "Integracao.Tests\\Integracao.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-01T17:35:13.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Integracao",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao\\Integracao.csproj",
+              "RelativeDocumentMoniker": "Integracao\\Integracao.csproj",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\Integracao\\Integracao\\Integracao.csproj",
+              "RelativeToolTip": "Integracao\\Integracao.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-01T17:35:08.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
