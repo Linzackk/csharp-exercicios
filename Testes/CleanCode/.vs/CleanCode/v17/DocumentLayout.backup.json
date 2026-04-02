@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\cleancode\\cleancode\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\cleancode\\cleancode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "CleanCode\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\UsuarioService.cs*",
+              "RelativeToolTip": "CleanCode\\UsuarioService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:49:28.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\Program.cs",
+              "RelativeDocumentMoniker": "CleanCode\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\Program.cs",
+              "RelativeToolTip": "CleanCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:49:10.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

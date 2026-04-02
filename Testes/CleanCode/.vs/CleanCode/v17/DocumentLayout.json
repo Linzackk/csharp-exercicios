@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\cleancode\\cleancode\\refatoracao\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\refatoracao\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\cleancode\\cleancode\\refatoracao\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\refatoracao\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\cleancode\\cleancode\\refatoracao\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\refatoracao\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\cleancode\\cleancode\\codigolimpo\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\codigolimpo\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\cleancode\\cleancode\\codigolimpo\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\codigolimpo\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\cleancode\\cleancode\\codigolimpo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\codigolimpo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\cleancode\\cleancode\\codigolimpo\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\codigolimpo\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|c:\\users\\isaac de medeiros\\desktop\\workspace\\csharp\\exercicios\\testes\\cleancode\\cleancode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1553845-F0F4-419B-BC69-6866250C98CA}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\Refatoracao\\Pedido.cs",
+              "RelativeDocumentMoniker": "CleanCode\\Refatoracao\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\Refatoracao\\Pedido.cs",
+              "RelativeToolTip": "CleanCode\\Refatoracao\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T18:00:37.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\Refatoracao\\Item.cs",
+              "RelativeDocumentMoniker": "CleanCode\\Refatoracao\\Item.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\Refatoracao\\Item.cs",
+              "RelativeToolTip": "CleanCode\\Refatoracao\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:59:44.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\Refatoracao\\PedidoService.cs",
+              "RelativeDocumentMoniker": "CleanCode\\Refatoracao\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\Refatoracao\\PedidoService.cs",
+              "RelativeToolTip": "CleanCode\\Refatoracao\\PedidoService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:59:19.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\CodigoLimpo\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "CleanCode\\CodigoLimpo\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\CodigoLimpo\\UsuarioRepository.cs",
+              "RelativeToolTip": "CleanCode\\CodigoLimpo\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:51:01.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\CodigoLimpo\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "CleanCode\\CodigoLimpo\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\CodigoLimpo\\IUsuarioRepository.cs",
+              "RelativeToolTip": "CleanCode\\CodigoLimpo\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:50:37.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\CodigoLimpo\\Usuario.cs",
+              "RelativeDocumentMoniker": "CleanCode\\CodigoLimpo\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\CodigoLimpo\\Usuario.cs",
+              "RelativeToolTip": "CleanCode\\CodigoLimpo\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:49:47.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\CodigoLimpo\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "CleanCode\\CodigoLimpo\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\CodigoLimpo\\UsuarioService.cs",
+              "RelativeToolTip": "CleanCode\\CodigoLimpo\\UsuarioService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:49:28.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\Program.cs",
+              "RelativeDocumentMoniker": "CleanCode\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac de Medeiros\\Desktop\\workspace\\csharp\\Exercicios\\Testes\\CleanCode\\CleanCode\\Program.cs",
+              "RelativeToolTip": "CleanCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:49:10.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

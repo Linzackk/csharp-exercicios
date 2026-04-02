@@ -1,0 +1,7 @@
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\CleanCode\CleanCode\bin\Debug\CleanCode.exe.config
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\CleanCode\CleanCode\bin\Debug\CleanCode.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\CleanCode\CleanCode\bin\Debug\CleanCode.pdb
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.AssemblyReference.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.CoreCompileInputs.cache
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\CleanCode\CleanCode\obj\Debug\CleanCode.exe
+C:\Users\Isaac de Medeiros\Desktop\workspace\csharp\Exercicios\Testes\CleanCode\CleanCode\obj\Debug\CleanCode.pdb
